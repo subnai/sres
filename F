@@ -1,0 +1,1497 @@
+#EXTM3U size="big"
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/crv.webp" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/crv.jpg",O CORVO
+https://github.com/likup/n/releases/download/n/c0rv2
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/sntch.webp" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/sntch.jpg",PORCOS E DIAMAMTES
+https://github.com/likup/n/releases/download/o/sntch
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/lobv.webp" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/lobs.jpg",LOBOS
+https://github.com/likup/n/releases/download/n/l0bs
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/apap.webp" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/apa.jpg",ASSASSINO POR ACASO
+https://github.com/likup/n/releases/download/n/assporac
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/cdvp.webp" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/cdv.jpg",CLUBE DOS VÂNDALOS
+https://github.com/likup/n/releases/download/n/clubvab
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/gsrp.webp" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/gsr.jpg",GUERRA SEM REGRAS
+https://github.com/likup/n/releases/download/n/gusere
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/4f/92/cc/MEBQEGJ_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/48/55/54/MEBQEGH_o.jpg",BAD BOYS 1
+https://content.jwplatform.com/videos/dOqYfasi-zSAQjdt3.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e6/4d/e7/MEBQEGL_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/86/91/8f/MEBQEGG_o.jpg",BAD BOYS 2
+https://content.jwplatform.com/videos/rF3xbGaG-NwnrkkSt.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/93/22/9f/MEF7X20_o.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/2/20210204_122105.jpg",BAD BOYS PARA SEMPRE
+https://content.jwplatform.com/videos/m6NUvuae-lUWRZ73X.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/bb4p.webp" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/bb4.jpg",BAD BOYS: ATÉ O FIM
+https://github.com/likup/n/releases/download/n/bb4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/rpmm.webp" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/mcm.jpg",PLANETA DOS MACACOS: O REINADO
+https://github.com/likup/n/releases/download/n/pdmrei
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/frurp.webp" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/furi.jpg",FURIOSA: UMA SAGA MAD MAX
+https://github.com/likup/n/releases/download/n/Fur.0S4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/20201221_181031.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/20201221_181233.jpg",MAD MAX: ESTRADA DA FURIA
+https://content.jwplatform.com/videos/geGIGopz-PuyNkur6.mp4
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/Ajodzgv.jpg" group-title="AÇÃO/AVENTURA" background="https://i.imgur.com/qbIhYgp.jpg",O DUBLÊ
+https://github.com/likup/n/releases/download/n/0Dble
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/Wc17boQ.jpg" group-title="AÇÃO/AVENTURA" background="https://i.imgur.com/iBDqCl3.jpg",GODZILLA: MINUS ONE (DUB)
+https://github.com/likup/n/releases/download/n/GM1
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/L0S0aAP.jpg" group-title="AÇÃO/AVENTURA" background="https://i.imgur.com/IzuAkHD.jpeg",CONTRA O MUNDO
+https://github.com/likup/n/releases/download/n/VsMun
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/godzilla-1.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/godzilla-1.jpg",GODZILLA 1
+https://content.jwplatform.com/videos/mLqjscwy-PJdS2QxM.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c5/57/f6/MEF7XFS_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/9e/5e/a8/MEF7XFP_o.jpg",GODZILLA 2 - REI DOS MONSTROS
+https://content.jwplatform.com/videos/iES5AWfG-0uvDYoAG.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/kong.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/41/d6/60/MEBQXDD_o.jpg",KONG: A ILHA DA CAVEIRA
+https://content.jwplatform.com/videos/lbIpJ7Lc-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/95/e4/b3/MEBDZB1_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/80/63/e8/MEHQJKR_o.jpg",GODZILLA VS KONG
+https://content.jwplatform.com/videos/hwMZc3wy-LdfqFleY.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f7/5a/5a/METIRRY_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/b8/a5/ed/METIRRX_o.jpg",GODZILLA X KONG: UM NOVO IMPÉRIO
+https://github.com/likup/n/releases/download/n/GvK2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/06/69/fb/MESODI6_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/05/20/f5/MESODHR_o.jpg",DONZELA
+https://github.com/likup/n/releases/download/n/dnzl4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3f/f8/3f/MESODI7_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/5d/cd/cc/MESODHZ_o.jpg",BEEKEPER - REDE DE VINGANÇA
+https://github.com/likup/n/releases/download/n/bkpr
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/48/92/8e/MESODI5_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/32/57/43/MESODHS_o.jpg",ARGYLLE - O SUPERESPIÃO
+https://github.com/likup/n/releases/download/n/4rgyll
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c3/60/a0/MEHST2H_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/51/c9/7e/MEHST2A_o.jpg",MISSÃO IMPOSSIVEL 1
+https://content.jwplatform.com/videos/z7Nmj6SS-Fj6mOqH7.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/15/8a/a2/MEHST2G_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/8e/e8/fe/MEHST29_o.jpg",MISSÃO IMPOSSIVEL 2
+https://content.jwplatform.com/videos/GEU53oXF-18Q3BZDO.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3c/b5/3f/MEHST2E_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/1f/57/0f/MEHST28_o.jpg",MISSÃO IMPOSSIVEL 3
+https://content.jwplatform.com/videos/sYV9p17R-18Q3BZDO.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/8a/cc/e7/MEHST2D_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/04/05/a8/MEHST26_o.jpg",MISSÃO IMPOSSÍVEL: PROTOCOLO FANTASMA
+https://content.jwplatform.com/videos/j3uKJCiU-18Q3BZDO.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/01/88/59/MEHST2C_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/45/27/8e/MEHST25_o.jpg",MISSÃO IMPOSSIVEL - NAÇÃO SECRETA
+https://content.jwplatform.com/videos/BQuPu2sr-18Q3BZDO.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b4/b8/52/MEHST2B_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/88/08/18/MEHST23_o.jpg",MISSÃO IMPOSSÍVEL: EFEITO FALLOUT
+https://content.jwplatform.com/videos/U5Aq07FY-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/9c/26/31/MEPGZDH_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/09/05/36/MEPGZD7_o.jpg",MISSÃO IMPOSSÍVEL: ACERTO DE CONTAS - PARTE UM
+https://github.com/likup/n/releases/download/n/MI7
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/84/32/7f/MEPGZR1_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/49/cb/66/MEPGZR0_o.jpg",GRAN TURISMO: DE JOGADOR A CORREDOR
+https://github.com/likup/n/releases/download/n/GTURISM0
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c6/84/01/MELCU73_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/d0/2a/b5/MELCU6I_o.jpg",MEGATUBARÃO 1
+https://content.jwplatform.com/videos/rzfWuS34-UeO1WkGg.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/dc/78/1a/MEOAW6Y_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/a5/57/bf/MEOAW6X_o.jpg",MEGATUBARÃO 2
+https://github.com/likup/n/releases/download/n/M22023DUB
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/28/1b/49/MEMIMN6_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/fb/27/53/MEMIMMW_o.jpg",TRANSFORMERS: O DESPERTAR DAS FERAS
+https://github.com/likup/n/releases/download/n/Tr4nsf0rm3rs.7
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/89/9e/8b/MEN7GPG_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/c3/75/5c/MEN7GPF_o.jpg",PROJETO EXTRAÇÃO
+https://github.com/likup/n/releases/download/n/PEXTRACAO
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/25/b9/bc/MEMEY1G_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/ab/28/22/MEMEY1E_o.jpg",CAVALEIROS DO ZODÍACO - SAINT SEIYA - O COMEÇO
+https://github.com/likup/n/releases/download/n/CDZC0MECO2023
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e9/8d/e6/MEM7S9N_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/0a/37/63/MEM7S9K_o.jpg",O PACTO
+https://github.com/likup/n/releases/download/n/0.p4ct0
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e2/f4/dc/MEC3NOB_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/55/a3/6b/MEC3NOA_o.jpg",RESGATE
+https://content.jwplatform.com/videos/P2KfKQNi-EEpxgbJg.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/0c/95/de/MEM5G96_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/ee/e0/f2/MEM5G94_o.jpg",RESGATE 2
+https://github.com/likup/n/releases/download/n/R3sgate.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/bc/04/62/MECGDKW_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/5e/fd/7d/MEM5ES4_o.jpg",JOHN WICK 1: DE VOLTA AO JOGO
+https://content.jwplatform.com/videos/rsxvqJEb-cYl17PlW.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/36/0d/b4/MECGDKU_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/78/7e/11/MEM5ES2_o.jpg",JOHN WICK 2: UM NOVO DIA PARA MATAR
+https://content.jwplatform.com/videos/CZJWGAiK-zSAQjdt3.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/22/b4/08/MECGDKV_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/7d/7a/5f/MEM5ERY_o.jpg",JOHN WICK 3: PARABELLUM
+https://content.jwplatform.com/videos/zjuuKd4x-PuyNkur6.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/5c/89/9c/MELGQFB_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/71/3b/c8/MELGQFA_o.jpg",JOHN WICK 4: BABA YAGA
+https://github.com/likup/n/releases/download/n/J0hn.W1ck.4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/05/a9/e1/MEL9USX_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/b0/4f/68/MEL9USU_o.jpg",DUNGEONS AND DRAGONS: HONRA ENTRE REBELDES
+https://github.com/likup/n/releases/download/n/dunge0s.4nd.dr4g0ns.dragons
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/22/7e/c3/MEI7ILN_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/51/7e/b0/MEI7ILM_o.jpg",AS AVENTURAS DE PI
+https://github.com/prolip/f/releases/download/ac/aventuras.de.pi
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e7/cc/7d/MEEBCOB_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/05/a7/15/MEEBCOA_o.jpg",TREM BALA
+https://github.com/prolip/f/releases/download/ac/trem.bala
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e3/41/e4/MEDZTHA_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/c3/2d/1b/MEDZTH4_o.jpg",A FERA
+https://github.com/prolip/f/releases/download/ac/a.fera
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/07/24/dc/MECFEUG_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/ee/6c/c3/MECFEUF_o.jpg",SAMARITANO
+https://github.com/prolip/f/releases/download/ac/samaritano
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/5a/64/48/MEBDZB9_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/91/a1/e3/MECA17N_o.jpg",TOP GUN: ASES INDOMÁVEIS
+https://content.jwplatform.com/videos/fF9L9LuI-lUWRZ73X.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f3/a9/a4/MEBZUKS_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/59/a9/03/MECF2KG_o.jpg",TOP GUN: MAVERICK
+https://github.com/prolip/f/releases/download/ac/top.gun.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/89/a7/8f/MECES34_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/9b/86/96/MECES2E_o.jpg",OPERAÇÃO OVERLORD
+https://content.jwplatform.com/videos/KoRUNcbV-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/4d/66/e6/MEC2I71_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/4c/db/a5/MEC2I70_o.jpg",PREDADOR: A CAÇADA
+https://github.com/prolip/f/releases/download/ac/predador.a.cacada
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/43/3c/7c/MEBWJ3T_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/71/87/ff/MEBWJ3K_o.jpg",AGENTE OCULTO
+https://github.com/prolip/f/releases/download/ac/agente.oculto
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/04/e3/5e/MEBNV98_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/27/5e/82/MEBNV91_o.jpg",A PRINCESA
+https://github.com/prolip/f/releases/download/ac/a.princesa.dub
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d7/99/f0/MECA17M_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/d7/99/f0/MECA17M_o.jpg",AMBULÂNCIA: UM DIA DE CRIME
+https://github.com/prolip/f/releases/download/ac/ambulancia.um.dia.de.crime
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/7f/19/c0/MEBDZAQ_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/28/82/c6/ME9UDOV_o.jpg",UNCHARTED: FORA DO MAPA
+https://github.com/prolip/f/releases/download/ac/uncharted
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/wcLiBAS.jpeg" group-title="AÇÃO/AVENTURA" background="https://i.imgur.com/zgyLv4e.jpeg",PROJETO ADAM
+https://github.com/prolip/f/releases/download/ac/o.projeto.adam
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/112132.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/n/fguy.jpg",FREE GUY: ASSUMINDO O CONTROLE
+https://cdn.jwplayer.com/videos/blPXSFwL-3vWkCocR.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/90/81/f3/MEBDZBF_o.jpg" group-title="AÇÃO/AVENTURA" background="https://i.imgur.com/Rnl3aeJ.jpeg",ANÔNIMO
+https://github.com/prolip/f/releases/download/ac/anonimo
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/UMHkGFX.jpeg" group-title="AÇÃO/AVENTURA" background="https://i.imgur.com/UMHkGFX.jpeg",A GUERRA DO AMANHÃ
+https://content.jwplatform.com/videos/6lx2y6iZ-r1oeOf1N.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/39/16/be/MEBDZBG_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/b0/57/9f/MEHQJR7_o.jpg",MORTAL KOMBAT
+https://content.jwplatform.com/videos/coFQU7K5-mjqddrCM.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/4e/c7/78/MEF7X0C_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/4e/c7/78/MEF7X0C_o.jpg",ARMY OF THE DEAD: INVASÃO EM LAS VEGAS
+https://github.com/prolip/f/releases/download/ac/army-of-the-dead
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/43/df/7a/MEBQXAV_o.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/tenet.jpg",TENET
+https://content.jwplatform.com/videos/GZMXOscI-E2vY9Ubx.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a8/bc/08/MEC3NMJ_o.jpg" group-title="AÇÃO/AVENTURA" background="httt",ARMAS EM JOGO
+https://github.com/prolip/f/releases/download/ac/armas.em.jogo
+#EXTINF:0 type="video" tvg-logo="https://ia902509.us.archive.org/21/items/img2022/1917.png" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/1917.jpg",1917
+https://content.jwplatform.com/videos/vYBf7DYO-s8dD2pdu.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f4/5f/4f/MEF7X5J_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/f4/5f/4f/MEF7X5J_o.jpg",BLOODSHOT
+https://content.jwplatform.com/videos/FzGv6lT9-NtbRVC3C.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/71/4f/90/MEBDZD9_o.jpg" group-title="AÇÃO/AVENTURA" background="httt",AS PANTERAS
+https://content.jwplatform.com/videos/f2IE6eRG-q8FTDhka.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/17/35/82/MEF7X5K_o.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/n/gemini.jpg",PROJETO GEMINI
+https://content.jwplatform.com/videos/xB50Yy6i-l5r3qFf5.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/23/3c/40/MEBDZD8_o.jpg" group-title="AÇÃO/AVENTURA" background="httt",RAMBO: ATÉ O FIM
+https://content.jwplatform.com/videos/yHI3TB53-xYyOPJaG.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/alita.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/n/alita.jpg",ALITA - ANJO DE COMBATE
+https://content.jwplatform.com/videos/RMevoDfl-0uvDYoAG.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/bumblebee.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/bumblebee.jpg",BUMBLEBEE
+https://content.jwplatform.com/videos/oHwsdLTD-M33kuJwh.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/9b/72/16/MEBQXDJ_o.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/fogo-1.jpg",CIRCULO DE FOGO
+https://content.jwplatform.com/videos/mk6Gsj0l-zSAQjdt3.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d2/e0/79/MEF7XJ2_o.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/fogo-2.jpg",CIRCULO DE FOGO: A REVOLTA
+https://content.jwplatform.com/videos/hhilN1XP-PJdS2QxM.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/bf/57/89/MEBQXE7_o.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/transformer-1.jpg",TRANSFORMERS
+https://content.jwplatform.com/videos/w0bWREGp-5TSzydBj.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/0c/6b/09/MEBQXE3_o.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/trans-2.jpg",TRANSFORMERS - A VINGANÇA DOS DERROTADOS
+https://content.jwplatform.com/videos/qYPUK4gm-5TSzydBj.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3b/47/e0/MEBQXE4_o.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/trans-3.jpg",TRANSFORMERS - O LADO OCULTO DA LUA
+https://content.jwplatform.com/videos/rlzZXPtM-5TSzydBj.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d4/36/27/MEBQXE6_o.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/trans-4.jpg",TRANSFORMERS - A ERA DA EXTINÇÃO
+https://content.jwplatform.com/videos/FZivTYVE-5TSzydBj.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/85/c1/e9/MEBQXE5_o.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/trans-5.jpg",TRANSFORMERS - O ÚLTIMO CAVALEIRO
+https://content.jwplatform.com/videos/y48gemJ4-PuyNkur6.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f3/ad/8c/MEBQXEM_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/62/c2/09/MEBQXEZ_o.jpg",JURASSIC PARK 1
+https://content.jwplatform.com/videos/MiUZmxdK-q8FTDhka.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/0d/6f/77/MEBQXEL_o.jpg" group-title="AÇÃO/AVENTURA" background="httt",JURASSIC PARK 2
+https://content.jwplatform.com/videos/Lh8HFR92-q8FTDhka.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/df/3b/7c/MEBQXEK_o.jpg" group-title="AÇÃO/AVENTURA" background="httt",JURASSIC PARK 3
+https://content.jwplatform.com/videos/jrNoSl92-q8FTDhka.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c8/75/5f/MEBQXEJ_o.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/2/jurassic.jpg",JURASSIC WORLD
+https://content.jwplatform.com/videos/w5FatIYn-PJdS2QxM.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e1/91/32/MEBQXEI_o.jpg" group-title="AÇÃO/AVENTURA" background="https://github.com/ted200/img/releases/download/2/world-2.jpg",JURASSIC WORLD: REINO AMEAÇADO
+https://content.jwplatform.com/videos/9EyngVy8-l5r3qFf5.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/11/64/93/MEBKZMF_o.jpg" group-title="AÇÃO/AVENTURA" background="https://i.imgur.com/eiS53ly.jpeg",JURASSIC WORLD: DOMÍNIO
+https://github.com/prolip/f/releases/download/ac/jurassic.world.3
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/0f/72/04/MEI6PN2_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/df/89/02/MEI6PMR_o.jpg",INDIANA JONES E OS CAÇADORES DA ARCA PERDIDA
+https://content.jwplatform.com/videos/gcrYfSwy-zJfxYVCz.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/4f/f9/d6/MEI6PN1_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/56/9d/fb/MEI6PMT_o.jpg",INDIANA JONES E O TEMPLO DA PERDIÇÃO
+https://content.jwplatform.com/videos/jMxirl7R-zJfxYVCz.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a2/70/35/MEI6PMZ_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/09/f9/2e/MEI6PMV_o.jpg",INDIANA JONES E A ÚLTIMA CRUZADA
+https://content.jwplatform.com/videos/ervai30h-zJfxYVCz.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/2e/8c/0a/MEI6PMX_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/80/16/15/MEI6PMW_o.jpg",INDIANA JONES E O REINO DA CAVEIRA DE CRISTAL
+https://content.jwplatform.com/videos/LfhyZxYx-zJfxYVCz.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/ea/6f/c5/MEF7XJW_o.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/origem.jpg",A ORIGEM
+https://content.jwplatform.com/videos/WckS2NAq-BG6rhfSt.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f6/6f/4d/MELCU7T_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/38/d8/f8/MELCU5I_o.jpg",POLICE STORY 1: A GUERRA DAS DROGAS
+https://github.com/likup/n/releases/download/o/Police.Story.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/46/e7/9d/MELCU7R_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/db/8c/ff/MELCU5M_o.jpg",POLICE STORY 2: CODINOME RADICAL
+https://github.com/likup/n/releases/download/o/Police.Story.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/36/2a/32/MEMQ6Z2_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/7c/e8/c8/MEMQ6YW_o.jpg",PROJETO CHINA
+https://github.com/likup/n/releases/download/o/Pr0J3T0.Ch1N4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b0/47/e6/MEMQ6Z1_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/aa/7a/6c/MEMQ6YX_o.jpg",ARREBENTANDO EM NOVA YORK
+https://github.com/likup/n/releases/download/o/4rrebent4nd0.em.N0v4.Y0rk
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/68/ef/4a/MELCU7O_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/a7/0b/6f/MELCU5P_o.jpg",O ESTRANGEIRO
+https://content.jwplatform.com/videos/MlvErGMI-lUWRZ73X.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/29/a3/11/MELCU7M_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/e7/fb/d6/MELCU5T_o.jpg",QUEM SOU EU?
+https://content.jwplatform.com/videos/3aCadfB6-zSAQjdt3.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3b/a6/ea/MELCV9H_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/92/ac/e0/MELCV97_o.jpg",BATER OU CORRER
+https://content.jwplatform.com/videos/uHTNbDms-nJ2q6WN3.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/fc/b7/cd/MELCV9D_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/86/c7/c1/MELCV94_o.jpg",OPERAÇÃO DRAGÃO
+https://content.jwplatform.com/videos/mNlvdt2f-MRd0W8Lh.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/6a/f8/5f/MELCU7I_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/19/0c/04/MELCU5W_o.jpg",GIGANTES DE AÇO
+https://content.jwplatform.com/videos/yosdjpQn-E2vY9Ubx.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/91/d6/7a/MELCU7D_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/2b/8d/07/MELCU66_o.jpg",RAMPAGE DESTRUIÇÃO TOTAL
+https://content.jwplatform.com/videos/HlhiPI54-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/11/d7/2c/MELCU77_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/a5/19/cc/MELCU69_o.jpg",ARRANHA CÉU CORAGEM SEM LIMITE
+https://content.jwplatform.com/videos/Y6853eXe-M33kuJwh.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/5c/45/40/MELCU70_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/c2/9c/aa/MELCU6D_o.jpg",ROBOCOP 2014
+https://content.jwplatform.com/videos/oAEkw6Rc-XP4H4gai.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/66/46/dc/MELCU6U_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/45/f8/85/MELCU6M_o.jpg",GUERRA MUNDIAL Z
+https://content.jwplatform.com/videos/0u3ZMfqh-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/64/4b/0b/MEBQXHA_o.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/2/20210204_121439.jpg",AS TARTARUGAS NINJA 1
+https://content.jwplatform.com/videos/zJuXa0Ze-nV9UHn96.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e9/c2/4a/MEBQXH9_o.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/2/20210204_121501.jpg",AS TARTARUGAS NINJA: FORA DAS SOMBRAS
+https://content.jwplatform.com/videos/B1RYLKud-nV9UHn96.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/83/56/f0/MECGDR2_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/f9/79/72/MECGDQU_o.jpg",A HORA DO RUSH
+https://content.jwplatform.com/videos/LaiSfOBI-su2i4fvY.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/fa/4d/c7/MECGDQW_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/aa/1b/ce/MECGDQV_o.jpg",A HORA DO RUSH 2
+https://content.jwplatform.com/videos/htZAsaEs-QOmQDbYo.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/fe/28/1a/MECGDQY_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/64/cf/5c/MECGDQT_o.jpg",A HORA DO RUSH 3
+https://content.jwplatform.com/videos/cbA437dR-QOmQDbYo.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e0/a6/7b/MECGDT4_o.jpg" group-title="AÇÃO/AVENTURA" background="httt",OS MERCENÁRIOS 1
+https://content.jwplatform.com/videos/Q1TgFpzN-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/8c/1a/c9/MECGDT2_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/8c/1a/c9/MECGDT2_o.jpg",OS MERCENÁRIOS 2
+https://content.jwplatform.com/videos/qslIdD66-0uvDYoAG.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/8a/b7/16/MECGDT3_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/8a/b7/16/MECGDT3_o.jpg",OS MERCENÁRIOS 3
+https://content.jwplatform.com/videos/Hc6aulp2-0uvDYoAG.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/46/f2/34/MEBQXHR_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/42/11/9e/MECF2KE_o.jpg",AVATAR
+https://content.jwplatform.com/videos/mOYiCv1o-nV9UHn96.mp4
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/FalcWY1.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/e7/65/83/MEBQXJO_o.jpg",PLANETA DOS MACACOS - A ORIGEM
+https://content.jwplatform.com/videos/tVV3jvyM-q8FTDhka.mp4
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/Jlw1vCz.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/planeta-2.jpg",PLANETA DOS MACACOS - O CONFRONTO
+https://content.jwplatform.com/videos/LPjeWbZy-q8FTDhka.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a6/be/c2/MEBQXK5_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/ca/2b/a8/MEBQXJP_o.jpg",PLANETA DOS MACACOS - A GUERRA
+https://content.jwplatform.com/videos/hHLmMKpG-q8FTDhka.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3c/8b/55/MECGDTN_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/c2/63/3a/MECGDTM_o.jpg",DURO DE MATAR
+https://content.jwplatform.com/videos/axBXo9wM-Fj6mOqH7.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/99/d5/b4/MEF7XKW_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/57/00/62/MEF7XKX_o.jpg",CÃES DE ALUGUEL
+https://github.com/prolip/f/releases/download/ac/caes.de.aluguel
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f7/51/f7/MEC3NAL_o.jpg" group-title="AÇÃO/AVENTURA" background="https://github.com/ted200/img/releases/download/3/8-odiados.jpg",OS 8 ODIADOS
+https://github.com/prolip/f/releases/download/ac/os.8.odiado
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/bastardos.jpg" group-title="AÇÃO/AVENTURA" background="https://github.com/ted200/img/releases/download/3/bastardos.jpg",BASTARDOS INGLÓRIOS
+https://github.com/prolip/f/releases/download/ac/Bastardos.Inglorios.LEG
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/20210113_153558.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/20210113_153558.jpg",KINGSMAN: SERVIÇO SECRETO
+https://github.com/prolip/f/releases/download/ac/Kingsman.1
+#EXTINF:0 type="video" tvg-logo="htt" group-title="AÇÃO/AVENTURA" background="ht",KINGSMAN: CÍRCULO DOURADO
+https://github.com/prolip/f/releases/download/ac/Kingsman.2
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/IgtD7So.jpeg" group-title="AÇÃO/AVENTURA" background="https://i.imgur.com/aPOv03g.jpeg",KINGS MAN: A ORIGEM
+https://github.com/prolip/f/releases/download/ac/Kings.Man
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/ed/b2/53/MEBQEGP_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/d5/7e/2e/MEBQEGN_o.jpg",O PREDADOR
+https://content.jwplatform.com/videos/JO6E7Wza-0uvDYoAG.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/1b/dd/a6/MEBON8O_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/5a/31/ff/MEBON8F_o.jpg",NO LIMITE DO AMANHÃ
+https://github.com/prolip/f/releases/download/ac/No.Limite.do.Amanha
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e0/d7/e7/MEC3NAK_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/e0/d7/e7/MEC3NAK_o.jpg",FEITO NA AMÉRICA
+https://content.jwplatform.com/videos/HXYDMXqC-zSAQjdt3.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b2/f4/01/MEF7XLA_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/b2/f4/01/MEF7XLA_o.jpg",300
+https://content.jwplatform.com/videos/NCPNPtxs-q8FTDhka.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/72/7d/c4/MECGDU0_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/08/b3/44/MECGDTU_o.jpg",TRUQUE DE MESTRE 1
+https://content.jwplatform.com/videos/RTBdVkuK-lUWRZ73X.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/77/2a/1f/MECGDU3_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/46/ad/be/MECGDTV_o.jpg",TRUQUE DE MESTRE 2
+https://content.jwplatform.com/videos/TF94hJI5-lUWRZ73X.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/da/fa/38/MECGDUP_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/d8/7a/4c/MECGDUO_o.jpg",CLUBE DA LUTA
+https://github.com/prolip/f/releases/download/ac/clube.da.luta
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e3/9c/ea/MEC3NAJ_o.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/rocky.jpg",ROCKY 1
+https://content.jwplatform.com/videos/uEJbXj2P-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="http://webtvcde.com/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky2.jpg" group-title="AÇÃO/AVENTURA" background="httt",ROCKY 2
+https://content.jwplatform.com/videos/uMPqIOnR-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="http://webtvcde.com/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky3.jpg" group-title="AÇÃO/AVENTURA" background="httt",ROCKY 3
+https://content.jwplatform.com/videos/mxxcqSTf-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="http://webtvcde.com/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky4.jpg" group-title="AÇÃO/AVENTURA" background="httt",ROCKY 4
+https://content.jwplatform.com/videos/wEDyFobY-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="http://webtvcde.com/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky5.jpg" group-title="AÇÃO/AVENTURA" background="httt",ROCKY 5
+https://content.jwplatform.com/videos/5nIN25HA-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="http://webtvcde.com/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky6.jpg" group-title="AÇÃO/AVENTURA" background="httt",ROCKY 6
+https://content.jwplatform.com/videos/DyC1enVk-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/20210128_113507.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/20210128_113507.jpg",CREED 1
+https://content.jwplatform.com/videos/VsWC8v82-8xleGx2D.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c6/a6/03/MEF7XMJ_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/3c/4c/ce/MEF7XMI_o.jpg",CREED 2
+https://content.jwplatform.com/videos/SeujUxk6-8xleGx2D.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/velozes1.jpg" group-title="AÇÃO/AVENTURA" background="httt",VELOZES E FURIOSOS 1
+https://content.jwplatform.com/videos/e0USTIkQ-0HOcX8n1.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/velozes2.jpg" group-title="AÇÃO/AVENTURA" background="httt",VELOZES E FURIOSOS 2
+https://content.jwplatform.com/videos/SYE54xLs-0HOcX8n1.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/velozes3.jpg" group-title="AÇÃO/AVENTURA" background="httt",VELOZES E FURIOSOS 3
+https://content.jwplatform.com/videos/CiXAdWWc-0HOcX8n1.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/velozes4.jpg" group-title="AÇÃO/AVENTURA" background="httt",VELOZES E FURIOSOS 4
+https://content.jwplatform.com/videos/zIiSj559-0HOcX8n1.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/velozes5.jpg" group-title="AÇÃO/AVENTURA" background="httt",VELOZES E FURIOSOS 5
+https://content.jwplatform.com/videos/h9TSIMVO-0HOcX8n1.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/velozes6.jpg" group-title="AÇÃO/AVENTURA" background="httt",VELOZES E FURIOSOS 6
+https://content.jwplatform.com/videos/CevEUcRJ-0HOcX8n1.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/velozes7.jpg" group-title="AÇÃO/AVENTURA" background="httt",VELOZES E FURIOSOS 7
+https://content.jwplatform.com/videos/nvh7jagv-0HOcX8n1.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/velozes8.jpg" group-title="AÇÃO/AVENTURA" background="httt",VELOZES E FURIOSOS 8
+https://content.jwplatform.com/videos/vJx9wtVt-0HOcX8n1.mp4
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/5ff7dqX.jpeg" group-title="AÇÃO/AVENTURA" background="https://i.imgur.com/5ff7dqX.jpeg",VELOZES E FURIOSOS 9
+https://cdn.jwplayer.com/videos/6QvMGqYS-4z58n6ov.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/36/a5/4c/MEBDZD7_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/25/6e/e9/MEBZUKV_o.jpg",HOBBS E SHAW
+https://content.jwplatform.com/videos/fgMJ4nmO-l5r3qFf5.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/warcraft.jpg" group-title="AÇÃO/AVENTURA" background="httt",WARCRAFT - O PRIMEIRO ENCONTRO ENTRE DOIS MUNDOS
+https://github.com/prolip/f/releases/download/ac/warcraft
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/tropa1.jpg" group-title="AÇÃO/AVENTURA" background="https://github.com/ted200/img/releases/download/3/tropa.jpg",TROPA DE ELITE
+https://content.jwplatform.com/videos/Kv5btshi-0HOcX8n1.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/be/24/4e/MEF7XNM_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/80/f3/4c/MEF7XNK_o.jpg",TOMB RAIDER - A ORIGEM
+https://content.jwplatform.com/videos/Cwh6mSmv-9KXv6jyv.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/4f/10/26/MEC3NAH_o.jpg" group-title="AÇÃO/AVENTURA" background="https://github.com/ted200/img/releases/download/2/20210204_115626.jpg",EM RITMO DE FUGA
+https://content.jwplatform.com/videos/uYNHofDj-cYl17PlW.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/42/29/3f/MEF7XPW_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/6a/d4/c8/MEF7XPU_o.jpg",ATOMICA - AGENTE ESPECIAL
+https://content.jwplatform.com/videos/3O4bYNGn-BG6rhfSt.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/exterminador1.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/terminator-1.jpg",O EXTERMINADOR DO FUTURO
+http://webtvcde.com/Filmes/Dublados/Futuro/O%20Exterminador%20do%20Futuro%201984.mkv
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/exterminador2.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/22/terminator-2.jpg",O EXTERMINADOR DO FUTURO: O JULGAMENTO FINAL
+https://content.jwplatform.com/videos/dpRioXut-sSEpcQZg.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/exterminador3.jpg" group-title="AÇÃO/AVENTURA" background="https://ctuillbe.sirv.com/p/exterminador3.jpg",O EXTERMINADOR A SALVAÇÃO
+https://content.jwplatform.com/videos/AOoQop66-zSAQjdt3.mp4
+#EXTINF:0 type="video" tvg-logo="http" group-title="AÇÃO/AVENTURA" background="httt",O EXTERMINADOR  A REBELIÃO DAS MAQUINAS
+https://content.jwplatform.com/videos/Tm7hFXfA-zSAQjdt3.mp4
+#EXTINF:0 type="video" tvg-logo="http" group-title="AÇÃO/AVENTURA" background="httt",O EXTERMINADOR DO FUTURO: GÊNESIS
+https://content.jwplatform.com/videos/Ec6yNowl-EI71wRcp.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d7/e5/7c/MEF7X5N_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/d7/e5/7c/MEF7X5N_o.jpg",O EXTERMINADOR DO FUTURO: DESTINO SOMBRIO
+https://content.jwplatform.com/videos/FK9fO3Ra-x08hJpYs.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/5e/00/d9/MECES32_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/b3/99/6d/MECES2G_o.jpg",PIRATAS DO CARIBE - A MALDIÇÃO DO PÉROLA NEGRA
+https://content.jwplatform.com/videos/jkH5qipm-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f2/b7/bc/MECES30_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/0b/46/cd/MECES2J_o.jpg", PIRATAS DO CARIBE: O BAÚ DA MORTE
+https://content.jwplatform.com/videos/MKsprIN1-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/2b/ef/70/MECES2Y_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/5e/ae/f8/MECES2M_o.jpg",PIRATAS DO CARIBE: NO FIM DO MUNDO
+https://content.jwplatform.com/videos/v2dSAQwh-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/fe/16/00/MECES2X_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/c0/a1/47/MECES2P_o.jpg",PIRATAS DO CARIBE: NAVEGANDO EM ÁGUAS MISTERIOSAS
+https://content.jwplatform.com/videos/RPJa3qgL-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/50/45/98/MECES2V_o.jpg" group-title="AÇÃO/AVENTURA" background="https://images4.imagebam.com/b4/91/75/MECES2S_o.jpg",PIRATAS DO CARIBE: A VINGANÇA DE SALAZAR
+https://content.jwplatform.com/videos/LBK6aA50-bacgYk0M.mp4
+
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/sonic.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/snc1.jpg",SONIC - O FILME
+https://github.com/prolip/f/releases/download/a/S0nic.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/10/94/f8/MECA12Z_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/snc2.jpg",SONIC 2
+https://github.com/prolip/f/releases/download/a/S0nic.2
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/snc3.webp" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/snc3.jpg",SONIC 3
+https://github.com/likup/n/releases/download/n/SNC3
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/opn.webp" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/opn.jpg",OPERAÇÃO NATAL
+https://github.com/likup/n/releases/download/n/0pe.N4t
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/rbs.webp" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/rbs.jpg",ROBÔ SELVAGEM
+https://github.com/likup/n/releases/download/n/rbsvg
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/trs1.webp" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/trs1.jpg",TRANSFORMERS: O INÍCIO
+https://github.com/likup/n/releases/download/n/Trs0ne
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/hero.webp" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/grc.jpg",O MENINO E A GARÇA
+https://github.com/likup/n/releases/download/n/b0ygrc
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/cora.webp" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/cora.jpg",CORALINE E O MUNDO SECRETO
+https://github.com/likup/n/releases/download/o/crln
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/95/7b/2b/MEBGBWY_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/divertidamente.jpg",DIVERTIDAMENTE
+https://github.com/likup/n/releases/download/n/DVTDM1
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/dmt.webp" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/dmt.jpg",DIVERTIDAMENTE 2
+https://github.com/likup/n/releases/download/n/dvtdm2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/cc/af/a7/MEI0YDX_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/malvado-1.jpg",MEU MALVADO FAVORITO
+https://content.jwplatform.com/videos/ElqEszqw-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a0/55/19/MEI0YDW_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/malvado-2.jpg",MEU MALVADO FAVORITO 2
+https://content.jwplatform.com/videos/2z3MlfKD-9KXv6jyv.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/1d/e5/0a/MEI0YDY_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/malvado-3.jpg",MEU MALVADO FAVORITO 3
+https://cdn.jwplayer.com/videos/Mmeo3ekp-zCTAkQjr.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/mmf4.webp" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/mmf41.jpg",MEU MALVADO FAVORITO 4
+https://github.com/likup/n/releases/download/n/MMF4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/6f/8e/30/MEI0YGX_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/minions.jpg",MINIONS
+https://content.jwplatform.com/videos/OIijLqw6-M33kuJwh.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/minions-2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/RJaCoBr.jpeg",MINIONS 2 A ORIGEM DE GRU
+https://github.com/prolip/f/releases/download/a/Mini0ns.2
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/sbp.webp" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/sb.jpg",A MISSÃO DE SANDY BOCHECHAS
+https://github.com/likup/n/releases/download/n/sbch
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/garfp.jpg" group-title=""ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/garf.jpg",GARFIELD: FORA DE CASA
+https://github.com/likup/n/releases/download/n/GFDC
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/img.webp" group-title=""ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/imgn.jpg",O IMAGINÁRIO
+https://github.com/likup/n/releases/download/n/O
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/s/Migp.webp" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/s/mig.jpg",AMIGOS IMAGINÁRIOS
+https://github.com/likup/n/releases/download/n/M1gue
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/zcS9VPN.webp" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/yqhbKlO.jpeg",ULTRAMAN: A ASCENÇÃO
+https://github.com/likup/n/releases/download/n/Ul
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/75/2a/7f/MEF6MLG_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/3H5yHDY.jpeg",KUNG FU PANDA 1
+https://content.jwplatform.com/videos/G4exmu0X-18Q3BZDO.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/56/cb/19/MEF6ML8_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/dKNZNYo.jpeg",KUNG FU PANDA 2
+https://content.jwplatform.com/videos/PJsvbHjn-18Q3BZDO.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3d/a0/4e/MEF6MLD_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/f7x4Ja1.jpeg",KUNG FU PANDA 3
+https://content.jwplatform.com/videos/WxlrsaQl-18Q3BZDO.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c5/22/a4/METB9O1_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/LbOEsdS.jpeg",KUNG FU PANDA 4
+https://github.com/likup/n/releases/download/n/kfp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/02/9d/7e/METB9NP_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/29/b0/d0/METB9NW_o.jpg",PICA-PAU: FÉRIAS DO ACAMPAMENTO
+https://github.com/likup/n/releases/download/n/PiKPu2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/76/a1/82/METB9NL_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/e4/ab/21/METB9NZ_o.jpg",MEGAMENTE VS O SINDICATO DA PERDIÇÃO
+https://github.com/likup/n/releases/download/n/M.g4m1nd2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/84/62/f2/METB9NO_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/37/f1/84/METB9O0_o.jpg",WISH: O PODER DOS DESEJOS
+https://github.com/likup/n/releases/download/n/uish
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3a/8c/a8/MESODI9_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/9c/79/30/MESODHQ_o.jpg",WONKA
+https://github.com/likup/n/releases/download/n/W0nk
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c6/ab/4d/MESODI8_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/24/bb/43/MESODHX_o.jpg",O MUNDO DOS PEQUENINOS
+https://github.com/likup/n/releases/download/n/pqninos
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/ca/24/16/MECCO9B_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/n/fuga.jpg",A FUGA DAS GALINHAS
+https://content.jwplatform.com/videos/SDwioAsn-nIPYi4xr.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a6/ac/c7/MEQUMWW_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/77/fe/49/MEQUMWM_o.jpg",A FUGA DAS GALINHAS 2: A AMEAÇA DOS NUGGETS
+https://github.com/likup/n/releases/download/n/FUG42
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/16/7e/60/MEQUMWS_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/98/9f/a3/MEQUMWJ_o.jpg",TROLLS 3
+https://github.com/likup/n/releases/download/n/TROL3
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a5/2d/61/MEQ8XGK_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/8b/98/51/MEQ8XGJ_o.jpg",SUZUME
+https://github.com/likup/n/releases/download/n/SUSUM3
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/46/57/8a/MEPGZDI_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/89/e7/70/MEPGZD6_o.jpg",BARBIE
+https://github.com/likup/n/releases/download/n/B4RBE
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/06/42/48/MENT3BK_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/ab/78/57/MENT3B6_o.jpg",ELEMENTOS
+https://github.com/likup/n/releases/download/n/ELEMEN
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c0/9a/d0/MENT3BM_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/56/2d/89/MENT3B7_o.jpg",AS TARTARUGAS NINJA: CAOS MUTANTE
+https://github.com/likup/n/releases/download/n/ATNCMUTANTE
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b5/91/71/MEOMA9F_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/ba/ce/7e/MEOMA9E_o.jpg",A PEQUENA SEREIA
+https://github.com/likup/n/releases/download/n/APSEREIA23
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/aranhaverso.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/avs1.jpg",HOMEM-ARANHA NO ARANHAVERSO
+https://github.com/prolip/f/releases/download/a/H0mem.4ranha.no.Aranhaverso
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/17/04/26/MEI2P1W_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/avs2.jpg",HOMEM-ARANHA ATRAVÉS DO ARANHAVERSO
+https://github.com/likup/n/releases/download/n/ARVS2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/51/91/43/MENE2R9_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/06/23/c9/MENE2R7_o.jpg",RUBY MARINHO - MONSTRO ADOLESCENTE
+https://github.com/likup/n/releases/download/n/RMMADLSCT
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f2/59/6a/MEMIMNA_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/46/6f/f3/MEMIMND_o.jpg",DRAGON BALL SUPER: SUPER HERO
+https://github.com/likup/n/releases/download/n/DBSSH
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/dbsbroly.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/ff/b9/c3/MEC3NQT_o.jpg",DRAGON BALL SUPER: BROLY
+https://github.com/prolip/f/releases/download/a/Drag0n.Ball.Super.Broly
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/5e/e3/50/METEBP5_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/91/0a/64/METEBP4_o.jpg",DRAGON BALL Z: UMA NOVA FUSÃO
+https://github.com/likup/n/releases/download/o/DBZFu
+#EXTINF:0 type="video" tvg-logo="http" group-title="ANIMAÇÃO/FAMÍLIA" background="http",DRAGON BALL Z: GOHAN E TRUNKS
+https://github.com/likup/n/releases/download/o/DBZ.Esp2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/66/32/6e/MEMQ60Z_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/66/32/6e/MEMQ60Z_o.jpg",LIGA DA JUSTIÇA: PONTO DE IGNIÇÃO
+https://github.com/prolip/f/releases/download/a/Lig4_d4_Justic4_P0nt0_de_Ignic40
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e0/36/30/MEI2P1L_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/53/02/81/MELGQF5_o.jpg",SUPER MARIO BROS - O FILME
+https://github.com/likup/n/releases/download/n/Super.M4rio
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/da/34/fd/MEHSRQY_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/ed/3d/97/MEHW8UA_o.jpg",GATO DE BOTAS: O ÚLTIMO PEDIDO
+https://github.com/likup/n/releases/download/n/g4to.de.bot4s.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f7/e6/b6/MEHQIOE_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/65/dd/5a/MEHQIOD_o.jpg",MUNDO ESTRANHO
+https://github.com/prolip/f/releases/download/a/mundo.estranho
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/14/46/1f/MEH2JOF_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/f8/fc/b6/MEH2JOB_o.jpg",PINÓQUIO DE GUILLERMO DEL TORO
+https://github.com/prolip/f/releases/download/a/Pin0qui0.Del.Toro
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c9/0b/77/MEH42SA_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/2e/6b/3f/MEH42S8_o.jpg",ENCANTADA
+https://github.com/prolip/f/releases/download/a/encantada
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/0a/8a/b7/MEH1F5T_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/47/b2/63/MEH42S9_o.jpg",DESENCANTADA
+https://github.com/prolip/f/releases/download/a/desencantada
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/7d/d5/22/MEH0IMD_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/43/e1/77/MEH0IM8_o.jpg",YOUR NAME
+https://github.com/prolip/f/releases/download/a/your.name
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/enola.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/2d/16/dc/MEH6PE4_o.jpg",ENOLA HOLMES 1
+https://github.com/prolip/f/releases/download/a/enola.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/63/b8/39/MEGOW1K_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/72/ab/7a/MEGOW1G_o.jpg",ENOLA HOLMES 2
+https://github.com/prolip/f/releases/download/a/enola.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/6d/a5/98/MEGCEMZ_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/8d/a6/99/MEGCEMX_o.jpg",ABRACADABRA 1
+https://github.com/prolip/f/releases/download/a/abracadabra.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c3/02/18/MEGCEMY_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/97/31/91/MEGCEMW_o.jpg",ABRACADABRA 2
+https://github.com/prolip/f/releases/download/a/abracadabra.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d2/c5/b9/MECA0QM_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/05/f5/f8/MEDQY6J_o.jpg",PINÓQUIO
+https://github.com/prolip/f/releases/download/a/Pin0qui0.2022
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a1/5f/ea/MECD9WI_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/a2/57/7f/MECHCUP_o.jpg",LIGA DOS SUPERPETS
+https://github.com/prolip/f/releases/download/a/liga.dos.superpets
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/dc/3b/57/MEC3N9O_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/02/1f/e8/MEC3N9L_o.jpg",SORTE
+https://github.com/prolip/f/releases/download/a/sorte
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/s/lght.webp" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/s/lghty.jpg",LIGHTYEAR
+https://github.com/prolip/f/releases/download/a/lightyear
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/69/96/c8/MEBNV97_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/47/4e/85/MEBNV92_o.jpg",A FERA DO MAR
+https://github.com/prolip/f/releases/download/a/a.fera.do.mar
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/bc/54/6d/MECA13N_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/70/7a/b7/MECA12Y_o.jpg",TICO E TECO: DEFENSORES DA LEI
+https://github.com/prolip/f/releases/download/a/tico.e.teco
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/red.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/n/res.jpg",RED: CRESCER É UMA FERA
+https://github.com/prolip/f/releases/download/a/red-crescer-e-uma-fera
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/jungle-cruise.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://gcdnb.pbrd.co/images/WK3UPjTVPwAh.jpg",JUNGLE CRUISE
+https://cdn.jwplayer.com/videos/loZcAxBy-FwFnERHM.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/luca-p.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/cf/56/93/MEF6IXE_o.jpg",LUCA
+https://github.com/prolip/f/releases/download/a/luca
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/cruella-poster.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/n/cruella.jpg",CRUELLA
+https://content.jwplatform.com/videos/XZOpE9JE-gLkW43OB.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/52/1a/aa/MEHQIRA_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/4e/4d/92/MEHQIR9_o.jpg",A FAMÍLIA MITCHELL E A REVOLTA DAS MÁQUINAS
+https://github.com/prolip/f/releases/download/a/famili4.mitch3ll.ea.revolt4.das.maquinas
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/8c/c1/61/MEHQFGG_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/raya.jpg",RAYA E O ÚLTIMO DRAGÃO
+https://github.com/prolip/f/releases/download/a/R4y4.eo.Ultimo.Dragao
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/tej.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/2/tej.jpg",TOM E JERRY O FILME
+https://content.jwplatform.com/videos/yKJc9bs5-zAG8IaEJ.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d0/a4/cb/MEHQFGF_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/a2/cd/bd/MEHQFAN_o.jpg",SOUL
+https://github.com/prolip/f/releases/download/a/soul
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/2irmao.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/n/2irmaoss.jpg",DOIS IRMÃOS: UMA JORNADA FANTÁSTICA
+https://github.com/prolip/f/releases/download/a/dois.irmaos
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/fd/ae/e9/MEC2IYQ_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/animal.jpg",UM ESPIÃO ANIMAL
+https://content.jwplatform.com/videos/WG14rlzR-lUWRZ73X.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/95/32/9b/MEHQJ6D_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/dora.jpg",DORA E A CIDADE PERDIDA
+https://content.jwplatform.com/videos/DoioByPn-bWtniFnP.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e1/74/5b/MEC2IYS_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/01/22/6f/MEHQJ9X_o.jpg",O REI LEÃO
+https://content.jwplatform.com/videos/EmJQ3PP3-bWtniFnP.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/20/3f/a7/MEHQJB5_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/QLfh13Y.jpeg",ALADDIN (2019)
+https://content.jwplatform.com/videos/MnyEfYxb-tmrR3xm7.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/4d/90/23/MEC3NQX_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/20/b4/6d/MEC3NQU_o.jpg",DUMBO (2019)
+https://content.jwplatform.com/videos/eKtXtHdk-bWtniFnP.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/monica.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/monica.jpg",TURMA DA MÕNICA: LAÇOS
+https://github.com/prolip/f/releases/download/a/turma.da.monica.lacos
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/JIFKzXl.jpeg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/HlkF3al.jpeg",TURMA DA MÔNICA: LIÇÕES
+https://github.com/prolip/f/releases/download/a/turma.da.monica.licoes
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f6/b3/9e/MEC3NQW_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/d8/77/4c/MEC3NQV_o.jpg",DETETIVE PIKACHU
+https://content.jwplatform.com/videos/GhYOTo31-bWtniFnP.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/ralph-1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/ralph-1.jpg",DETONA RALPH
+https://github.com/prolip/f/releases/download/a/detona-ralph
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c6/b9/41/MEC3NRE_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/ralph-2.jpg",WIFI RALPH - QUEBRANDO A INTERNET
+https://content.jwplatform.com/videos/eWS1SvZs-18Q3BZDO.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/1e/48/fa/MEC3NKT_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/1e/48/fa/MEC3NKT_o.jpg",BEE MOVIE - UMA HISTORIA DE UMA ABELHA
+https://github.com/prolip/f/releases/download/a/bee.movie
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/60/2d/51/MEC3NRW_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/alvin-1.jpg",ALVIN E OS ESQUILOS 1
+https://content.jwplatform.com/videos/AiQVmgu8-RwsNjeu0.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a5/e6/f0/MEC3NRX_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/alvin-2.jpg",ALVIN E OS ESQUILOS 2
+https://content.jwplatform.com/videos/nqkVhuwS-RwsNjeu0.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/af/1f/5f/MEC3NRY_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/alvin-3.jpg",ALVIN E OS ESQUILOS 3
+https://content.jwplatform.com/videos/rtLcFXUZ-RwsNjeu0.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/19/fa/11/MEC3NRZ_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/alvin-4.jpg",ALVIN E OS ESQUILOS NA ESTRADA
+https://content.jwplatform.com/videos/8L1ecrXG-nIPYi4xr.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/08/56/65/MEC3NS7_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://tofdata.files.wordpress.com/2021/01/c-1.jpg",COMO TREINAR O SEU DRAGÃO 1
+https://cdn.jwplayer.com/videos/w0sHsjtE-zCTAkQjr.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e4/51/11/MEC3NS9_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://tofdata.files.wordpress.com/2021/01/c-2.jpg",COMO TREINAR O SEU DRAGÃO 2
+https://cdn.jwplayer.com/videos/LfxG3Xcl-zCTAkQjr.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/79/9a/91/MEC3NS8_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://tofdata.files.wordpress.com/2021/01/c-3.jpg",COMO TREINAR O SEU DRAGÃO 3
+https://content.jwplatform.com/videos/Pkyeaidp-18Q3BZDO.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/66/a3/31/MECCOEQ_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/a1/ff/e2/MECCOEG_o.jpg",CHRISTOPHER ROBIN: UM REENCONTRO INESQUECIVEL
+https://content.jwplatform.com/videos/m2JkvWTw-0uvDYoAG.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/2/20210204_233837.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/c1/1c/8a/MECCOCR_o.jpg",MALÉVOLA
+https://content.jwplatform.com/videos/VV6nWZYQ-Fj6mOqH7.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/8a/72/0e/MECCOCQ_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/dd/5c/f6/MECCOCS_o.jpg",MALÉVOLA - DONA DO MAL
+https://content.jwplatform.com/videos/hp112n62-l5r3qFf5.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/25/be/bb/MECCOGG_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/ce/0a/74/MECCOGE_o.jpg",ZÉ COLMEIA - O FILME
+https://github.com/prolip/f/releases/download/a/ze.colmeia.o.filme
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/cb/42/6a/MECCOIO_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/58/ad/34/MECCOIP_o.jpg",O FANTÁSTICO SR RAPOSO
+https://github.com/prolip/f/releases/download/a/fantastico.sr.raposo
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/1f/f2/23/MEC2J53_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/e3/49/1b/MEC2J50_o.jpg",OS INCRÍVEIS 1
+https://github.com/prolip/f/releases/download/a/os.incriv3is.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a6/81/45/MEC2J52_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/9f/3f/25/MEC2J51_o.jpg",OS INCRÍVEIS 2
+https://github.com/prolip/f/releases/download/a/os.incriv3is.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/88/38/b7/MEC2J1T_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/C43yBVM.jpeg",TOY STORY 1
+https://github.com/prolip/f/releases/download/a/t0y.story.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d5/46/c4/MEC2J1U_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/4xucysj.jpeg",TOY STORY 2
+https://github.com/prolip/f/releases/download/a/t0y.story.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d3/3d/45/MEC2J1W_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/MYeOvO0.jpeg",TOY STORY 3
+https://github.com/prolip/f/releases/download/a/t0y.story.3
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/4e/13/3f/MEC2J1Z_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/tG00xFP.jpeg",TOY STORY 4
+https://github.com/prolip/f/releases/download/a/t0y.story.4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d5/31/72/MEBGC4C_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://tofdata.files.wordpress.com/2021/01/chicken-little.jpg",O GALINHO CHICKEN LITTLE
+https://github.com/prolip/f/releases/download/a/galinho.chicken.little
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/enrolados.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/5c/6e/e0/MEC2J3E_o.jpg",ENROLADOS
+https://content.jwplatform.com/videos/zo7kBA06-C9tEYeUR.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/64/6d/9e/MEBGC33_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/frozen-1.jpg",FROZEN 1
+https://cld.pt/dl/download/5a2b603f-9081-47a1-9e6d-42cabdc00cb9/frozen
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a5/25/e9/MEBGC31_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/2/f1.jpg",FROZEN 2
+https://content.jwplatform.com/videos/2fQq6P5f-Fj6mOqH7.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e1/0e/74/MEBGC2A_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/moana.jpg",MOANA - UM MAR DE AVENTURAS
+https://content.jwplatform.com/videos/n1lTM0hb-xljqIFJg.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e6/4f/45/MEBGC29_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/2a/55/30/MEC2J3G_o.jpg",VIDA DE INSETO
+https://github.com/prolip/f/releases/download/a/vida.de.inseto
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f0/67/67/MEBGBXF_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/0f/10/5a/MEBGBXE_o.jpg",WALL-E
+https://github.com/prolip/f/releases/download/a/wall-e
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/63/e5/b3/MEBGC00_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/79/91/0d/MEBGBZV_o.jpg",RATATOUILLE
+https://github.com/prolip/f/releases/download/a/ratatouille
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/5b/f9/e0/MEBGBZZ_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/67/3e/fa/MEBGBZX_o.jpg",MONSTROS S.A
+https://github.com/prolip/f/releases/download/a/monstros.sa
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/09/9f/89/MEBGBZY_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/14/c1/ab/MEBGBZW_o.jpg",UNIVERSIDADE MONSTROS
+https://github.com/prolip/f/releases/download/a/universidade.monstros
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/zootopia.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/c6/d4/34/MEHT9D5_o.jpg",ZOOTOPIA
+https://content.jwplatform.com/videos/H9AKhqoh-18Q3BZDO.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3e/86/6e/MEI0Y9P_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/brave.jpg",VALENTE
+https://github.com/prolip/f/releases/download/a/valente
+#EXTINF:0 type="video" tvg-logo="https://r350home.files.wordpress.com/2020/04/20200414_233008.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/nemo.jpg",PROCURANDO NEMO
+https://github.com/prolip/f/releases/download/a/procurando.nemo
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/05/f3/18/MEBGBWW_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/dory.jpg",PROCURANDO DORY
+https://github.com/prolip/f/releases/download/a/procurandodory.dub
+#EXTINF:0 type="video" tvg-logo="https://fillmes5.files.wordpress.com/2020/10/images-30.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="",BEN 10: CORRIDA CONTRA O TEMPO
+https://f000.backblazeb2.com/file/filmesonline2020/BEN10DUB-BAIXO.mp4
+#EXTINF:0 type="video" tvg-logo="https://fillmes5.files.wordpress.com/2020/10/10.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt",BEN 10: INVASÃO ALIENÍGENA
+https://github.com/prolip/f/releases/download/a/ben-10-invasao-alienigena
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/2/omi.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/2/omi.jpg",BEN 10: O SEGREDO DO OMNITRIX
+https://github.com/likup/n/releases/download/o/B10SegOmn
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/5d/1b/91/MEBGBVR_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/5d/1b/91/MEBGBVR_o.jpg",BEN 10: DESTRUIÇÃO ALIENÍGENA
+https://github.com/likup/n/releases/download/o/B10DesAli
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a5/d4/e7/MEF6JUA_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/14/d5/b3/MEF6JUD_o.jpg",OS JOVENS TITÃS EM AÇÃO NOS CINEMAS
+https://github.com/prolip/f/releases/download/a/jovens.titas.o.filme
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/10/6a/d5/MEBGBV9_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/pica-pau.jpg",PICA-PAU: O FILME
+https://content.jwplatform.com/videos/5vyGznlw-0HOcX8n1.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/scooby1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/n/scoob.jpg",SCOOBY-DOO: O FILME
+https://github.com/prolip/f/releases/download/a/sc00b.Doo.1
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/scooby2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/sd-2.jpg",SCOOBY-DOO: MONSTROS À SOLTA
+https://github.com/prolip/f/releases/download/a/sc00b.Doo.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/00/fb/c3/MEBGBTY_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/comeca.jpg",SCOOBY-DOO: O MISTERIO COMEÇA
+https://github.com/prolip/f/releases/download/a/sc00b.doo.3
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/7e/a4/88/MEF6K4A_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/lago.jpg",SCOOBY-DOO E A MALDIÇÃO DO MONSTRO DO LAGO
+https://github.com/prolip/f/releases/download/a/sc00b.doo.4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/6e/ad/24/MEC3YH9_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/n/scoob.jpg",SCOOBY - O FILME
+https://content.jwplatform.com/videos/JuqYhOfB-1n7nscrk.mp4
+#EXTINF:0 type="video" tvg-logo="http" group-title="ANIMAÇÃO/FAMÍLIA" background="httt",SCOOBY DOO NA ILHA DOS ZUMBIS
+https://content.jwplatform.com/videos/nFs3KznO-3FTJ2dtp.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/71/49/05/MEF6KAS_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/93/73/a5/MEF6KAW_o.jpg",SPACE JAM O JOGO DO SÉCULO
+https://github.com/prolip/f/releases/download/a/Sp4ce.Jam.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/9f/eb/8b/MEF6IJ6_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/1e/74/f7/MEF6IJB_o.jpg",SPACE JAM: UM NOVO LEGADO
+https://content.jwplatform.com/videos/jqp7SoGa-dLjYr7Ct.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/eb/d5/a4/MEC2IYZ_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/ln-dvaa.jpg",LOONEY TUNES - DE VOLTA A AÇÃO
+https://github.com/prolip/f/releases/download/a/looney.tunes.de.volta.a.acao="https://images4.imagebam.com/32/64/71/MEF6KLA_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/56/c5/25/MEF6KLF_o.jpg",UP: ALTAS AVENTURAS
+https://github.com/prolip/f/releases/download/a/up.altas.aventuras
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3a/4a/78/MEC3YIU_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/viva.jpg",VIVA: A VIDA É UMA FESTA
+https://github.com/prolip/f/releases/download/a/viva.vida.e.uma.festa
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/51/f8/e6/MEC3YIT_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/fe/f3/47/MEC3YIQ_o.jpg",CARROS 1
+https://content.jwplatform.com/videos/DQGbp7C6-RWNAGREF.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/95/97/f8/MEC3YIO_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/48/a8/17/MEC3YIP_o.jpg",CARROS 2
+https://content.jwplatform.com/videos/I65HqWD4-RWNAGREF.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f0/c7/85/MEC3YIS_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/8c/d3/b9/MEC3YIR_o.jpg",CARROS 3
+https://content.jwplatform.com/videos/i87iKpDI-RWNAGREF.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a9/e0/ea/MEF6L47_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/c1/21/24/MEF6L3V_o.jpg",ANGRY BIRDS 1
+https://content.jwplatform.com/videos/xEvmrJ02-RWNAGREF.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/7d/3b/b0/MEF6L42_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/89/5c/1e/MEF6L40_o.jpg",ANGRY BIRDS 2
+https://github.com/prolip/f/releases/download/a/angy.bir.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/1f/c9/41/MEC2IZ0_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/1f/c9/41/MEC2IZ0_o.jpg",TÁ CHOVENDO HAMBURGUER 1
+https://github.com/prolip/f/releases/download/a/ta.chovendo.hamburguer.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/42/ec/66/MEC2IZ1_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/42/ec/66/MEC2IZ1_o.jpg",TÁ CHOVENDO HAMBURGUER 2
+https://github.com/prolip/f/releases/download/a/ta.chovendo.hamburguer.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/0b/2d/65/MEC2IZ5_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/smurfs-1.jpg",OS SMURFS
+https://content.jwplatform.com/videos/fKlUdlFI-xljqIFJg.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d9/46/9a/MEC2IZ4_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/smurfs-2.jpg",OS SMURFS 2
+https://content.jwplatform.com/videos/deR5RBGX-xljqIFJg.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d4/11/64/MEF6LFI_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/2/smuf3.jpg",OS SMURFS E A VILA PERDIDA
+https://content.jwplatform.com/videos/vXEEmgbi-xljqIFJg.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/93/44/1e/MEC2IZ2_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://github.com/ted200/img/releases/download/3/flauta.jpg",OS SMURFS E A FLAUTA MÁGICA
+https://github.com/prolip/f/releases/download/a/os-smurfs-a-flauta-magica
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/9f/cf/3c/MEF6LOO_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/6a/45/eb/MEF6LP3_o.jpg",UMA AVENTURA LEGO 1
+https://github.com/likup/n/releases/download/o/1avleg
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/19/ef/e6/MEF6LOV_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/0d/9a/aa/MEF6LOY_o.jpg",UMA AVENTURA LEGO 2
+https://github.com/prolip/f/releases/download/a/lego.2
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/legobatman.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/3e/02/c8/MEF6MWK_o.jpg",LEGO BATMAN O FILME
+https://github.com/prolip/f/releases/download/a/l3g0.batman
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c4/db/c4/MEF6MCO_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/5e/32/29/MEF6MCJ_o.jpg",RIO 1
+https://github.com/prolip/f/releases/download/a/rio.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/27/83/ce/MEF6MCP_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/2f/97/e0/MEF6MCG_o.jpg",RIO 2
+https://github.com/prolip/f/releases/download/a/rio.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/19/e0/4b/MEI0Y9O_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/simpsons.jpg",OS SIMPSONS: O FILME
+https://github.com/prolip/f/releases/download/a/simps0ns.o.filme
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/35/2b/c2/MEC2ITM_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://tofdata.files.wordpress.com/2021/01/grinch-2.jpg",O GRINCH - 2019
+https://content.jwplatform.com/videos/JNha61nA-5TSzydBj.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/15/59/34/MEC2ITL_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/2/terra.jpg",A FUGA DO PLANETA TERRA
+https://github.com/prolip/f/releases/download/a/afugadoplanetaterra
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/71/78/56/MEC2ITK_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt",ESQUECERAM DE MIM
+https://content.jwplatform.com/videos/e0Ek7gcQ-PJdS2QxM.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/mogli.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/n/mogli.jpg",MOGLI - O MENINO LOBO
+https://github.com/prolip/f/releases/download/a/mogli-menino-lobo
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a9/0b/7f/MEC2ITJ_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt",POR ÁGUA ABAIXO
+https://filme10movie.files.wordpress.com/2020/10/por-agua-abaixo
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/8c/03/88/MEHQIR6_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/w2hzLV8.jpeg",BOB ESPONJA: O FILME
+https://github.com/prolip/f/releases/download/a/b0b.esponja.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/99/a0/92/MEHQIR7_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/n/bob2.jpg",BOB ESPONJA: UM HEROI FORA D'ÁGUA
+https://github.com/prolip/f/releases/download/a/b0b.esponja.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/51/22/fd/MEHQIR8_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/n/bob2.jpg",BOB ESPONJA: O INCRÍVEL RESGATE
+https://content.jwplatform.com/videos/Xx8vb48C-EiPiTsLT.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/08/78/26/MEHT9G4_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/fera.png",A BELA E A FERA
+https://github.com/prolip/f/releases/download/a/bela.a.fera.2017
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/bb/3b/f1/MEHT9G5_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/bela.png",A BELA E A FERA [ANIMAÇÃO]
+https://content.jwplatform.com/videos/tJuhECLb-18Q3BZDO.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/85/58/01/MEHT9JA_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/n/rei-leao.jpg",O REI LEÃO
+https://github.com/prolip/f/releases/download/a/o.rei.leao.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/71/bd/e2/MEHT9J8_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/71/bd/e2/MEHT9J8_o.jpg",O REI LEÃO 2
+https://content.jwplatform.com/videos/ghDH0hmy-9KXv6jyv.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/84/32/35/MEHT9J7_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/84/32/35/MEHT9J7_o.jpg",O REI LEÃO 3
+https://content.jwplatform.com/videos/gjs5PAd6-xosTtpcC.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/20210115_112855.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/20210115_112916.jpg",PINÓQUIO
+https://github.com/prolip/f/releases/download/a/pinoquio-1940
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/ferro.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/n/gigante.jpg",GIGANTE DE FERRO
+https://content.jwplatform.com/videos/I5Vp5M0c-9KXv6jyv.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/82/63/b0/MEHT9NX_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/82/63/b0/MEHT9NX_o.jpg",PLANETA DO TESOURO
+https://github.com/prolip/f/releases/download/a/planeta-do-tesouro
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/rango.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/c5/ab/52/MEHT9U3_o.jpg",RANGO
+https://github.com/prolip/f/releases/download/a/rango
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/cf/09/3c/MEC2ITH_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/n/willy.jpg",A FANTASTICA FABRICA DE CHOCOLATE (1971)
+https://content.jwplatform.com/videos/aD2fBMul-18Q3BZDO.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/13/fd/25/MEC2ITG_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/n/chocolate.jpg",A FANTASTICA FABRICA DE CHOCOLATE (2005)
+https://content.jwplatform.com/videos/gGC4jmHw-18Q3BZDO.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b4/f0/c9/MEC2ITF_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/emoji.png",EMOJI - O FILME
+https://f000.backblazeb2.com/file/filmesonline2020/Emoji.O.Filme.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/20/d1/5d/MEI0YMZ_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/2/gelo1.jpg",A ERA DO GELO
+https://content.jwplatform.com/videos/vyBQZl5E-nIPYi4xr.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/92/b9/3c/MEI0YN3_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/2/gelo2.jpg",A ERA DO GELO 2
+https://content.jwplatform.com/videos/68m9UtIB-nIPYi4xr.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/87/b5/0f/MEI0YN6_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/2/gelo3.jpg",A ERA DO GELO 3
+https://content.jwplatform.com/videos/ObcY0XDb-nIPYi4xr.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e8/47/92/MEI0YN7_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/2/gelo4.jpg",A ERA DO GELO 4
+https://content.jwplatform.com/videos/CNGFJJgs-nIPYi4xr.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/72/01/d6/MEI0YQE_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/gelo-5.jpg",A ERA DO GELO: O BIG BANG
+https://content.jwplatform.com/videos/xvui4wJO-18Q3BZDO.mp4
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/xEEre6n.jpeg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/xEEre6n.jpeg",A ERA DO GELO: AVENTURAS DE BUCK
+https://github.com/prolip/f/releases/download/a/Buck
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/58/fd/ee/MEI0YRX_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/ac/55/6e/MEI0YRZ_o.jpg",GARFIELD 1
+https://content.jwplatform.com/videos/YwpS6hVh-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="htt" group-title="ANIMAÇÃO/FAMÍLIA" background="ht",GARFIELD 2
+https://content.jwplatform.com/videos/XOJmXLBz-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/be/e6/37/MEI0YXQ_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/p0yvYDF.jpeg",SHREK 1
+https://github.com/prolip/f/releases/download/a/shr3k.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/5d/44/00/MEI0YXO_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/v32RAlo.jpeg",SHREK 2
+https://github.com/prolip/f/releases/download/a/shr3k.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/cc/37/c5/MEI0YXR_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/uHDzU0a.jpeg",SHREK 3
+https://github.com/prolip/f/releases/download/a/shr3k.3
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/be/d5/05/MEI0YXN_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://i.imgur.com/kvd9raA.jpeg",SHREK PARA SEMPRE
+https://github.com/prolip/f/releases/download/a/shr3k.4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/db/c4/50/MEI0YXI_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/gato.png",GATO DE BOTAS
+https://github.com/prolip/f/releases/download/a/gato.de.botas.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/34/08/34/MEC2ITE_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://github.com/ted200/img/releases/download/3/madagascar-1.jpg",MADAGASCAR
+https://github.com/prolip/f/releases/download/a/M4d4g4sc4r.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/88/2e/3b/MEC2ITA_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://github.com/ted200/img/releases/download/3/madagascar-2.jpg",MADAGASCAR 2
+https://github.com/prolip/f/releases/download/a/M4d4g4sc4r.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e2/78/f7/MEC2ITC_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/madagascar-3.jpg",MADAGASCAR 3
+https://github.com/prolip/f/releases/download/a/M4d4g4sc4r.3
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f8/e3/2f/MEC2IT7_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/f8/e3/2f/MEC2IT7_o.jpg",GOOSEBUMPS
+https://content.jwplatform.com/videos/KzoGeupT-394hl6Zu.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/aladdin-1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/n/aladdin-1.jpg",ALADDIN
+https://github.com/prolip/f/releases/download/a/aladdin
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f2/ea/64/MEC2IT6_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://tofdata.files.wordpress.com/2021/01/megamind.jpg",MEGAMENTE
+https://github.com/prolip/f/releases/download/a/megamente
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/cueca.png" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/cueca.png",AS AVENTURAS DO CAPITÃO CUECA
+https://content.jwplatform.com/videos/uNfFhcG3-RWNAGREF.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e2/c5/4e/MEI2FCV_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/tintim.png",AS AVENTURAS DE TINTIM
+https://content.jwplatform.com/videos/ypxkFShI-nIPYi4xr.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/49/0a/40/MEC2IT3_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://tofdata.files.wordpress.com/2021/01/hop.jpg",HOP - REBELDE SEM PÁSCOA
+https://content.jwplatform.com/videos/ekjQi1O4-nIPYi4xr.mp4
+#EXTINF:0 type="video" tvg-logo="https://tofdata.files.wordpress.com/2021/01/kubo.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://tofdata.files.wordpress.com/2021/01/kubo.jpg",KUBO E AS CORDAS MÁGICAS
+https://content.jwplatform.com/videos/sY0VStbl-xljqIFJg.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/33/21/a1/MEC2IT2_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://tofdata.files.wordpress.com/2021/01/20210111_124941.jpg",LILO E STITCH
+https://github.com/prolip/f/releases/download/a/lilo.e.stitch.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c5/67/12/MEI2FCT_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/c5/67/12/MEI2FCT_o.jpg",A NOVA ONDA DO IMPERADOR
+https://github.com/prolip/f/releases/download/a/a.nova.onda.do.imperador
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f0/d2/4c/MEC2IT0_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt",TARZAN
+https://content.jwplatform.com/videos/gm9BXOIX-9KXv6jyv.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/1b/5a/3f/MEC2ISZ_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/73/a3/93/MEHT9Z1_o.jpg",NEM QUE A VACA TUSSA
+https://content.jwplatform.com/videos/4pgt9qNm-9KXv6jyv.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/01/bb/22/MEHTA4O_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/f8/ca/ee/MEHTA4N_o.jpg",A PRINCESA E O SAPO
+https://github.com/prolip/f/releases/download/a/a_princesa_e_o_sapo
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/de/bf/8e/MEI2FCR_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/alice-1.png",ALICE NO PAIS DAS MARAVILHAS
+https://content.jwplatform.com/videos/Q7kPaBMm-QOmQDbYo.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/57/9f/14/MEI2FCM_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt",ALICE ATRAVES DO ESPELHO
+https://content.jwplatform.com/videos/NrtBiolg-QOmQDbYo.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/8f/95/12/MEC2ISX_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/pets-1.png",PETS: A VIDA SECRETA DOS BICHOS
+https://github.com/prolip/f/releases/download/a/pets.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/13/69/7f/MEI2FCK_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/pets-2.png",PETS 2
+https://content.jwplatform.com/videos/ZSbZkBCl-M33kuJwh.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/29/e9/cc/MEI2FCJ_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/17/ae/99/MEI2FJK_o.jpg",UMA CILADA PARA ROGER RABBIT
+https://github.com/likup/n/releases/download/o/rgerrbt
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/0b/a1/05/MEC2IZ9_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/robos.png",ROBÔS
+https://github.com/likup/n/releases/download/o/r0b0z
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/31/39/56/MEC0IAU_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/23/e0/b8/MEC0IAT_o.jpg",PUTZ! A COISA TÁ FEIA
+https://content.jwplatform.com/videos/dygmimxR-zyLd3z4s.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/19/5f/3a/MEC0I9U_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/22/c4/24/MEC0I9V_o.jpg",BARRY E A BANDA DAS MINHOCAS
+https://github.com/prolip/f/releases/download/a/barry.ea.banda.das.minhocas
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e2/83/95/MEC0IE1_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/mulan.png",MULAN
+https://content.jwplatform.com/videos/Jjx1ILKT-9KXv6jyv.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/2a/e0/76/MEC2IST_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/festa.png",FESTA NO CÉU
+https://github.com/likup/n/releases/download/o/FnC
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/4a/00/cc/MEC0IDZ_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/chihiro.jpg",A VIAGEM DE CHIHIRO
+https://github.com/prolip/f/releases/download/a/a.viagem.de.chihiro
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/23/c6/17/MEC0IDT_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/totoro.jpg",MEU AMIGO TOTORO
+https://github.com/prolip/f/releases/download/a/t0t0r0
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/9f/87/2e/MEMUYJD_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/a6/43/c9/MEMUYJA_o.jpg",O CASTELO ANIMADO
+https://github.com/prolip/f/releases/download/a/c4st3l0.4nim4do
+#EXTINF:0 type="video" tvg-logo="http" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/ponyo.jpg",PONYO
+https://github.com/likup/n/releases/download/o/P0ny0
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/51/24/93/MEGZ5O1_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/22/porco.png",PORCO ROSSO: O PORCO VOADOR(LEG)
+https://github.com/likup/n/releases/download/o/P0rC0.R0ss0
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/00/97/a8/MEMUYJG_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/7d/4f/9b/MEMUYJC_o.jpg",O SERVIÇO DE ENTREGAS DA KIKI
+https://github.com/prolip/f/releases/download/a/3ntr3g4s.d4.Kiki
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e1/e0/ba/MEMUYJE_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://images4.imagebam.com/eb/65/3f/MEMUYJB_o.jpg",VIDAS AO VENTO
+https://github.com/prolip/f/releases/download/a/Vid4s.a0.V3nt0
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/fb/7d/88/MEGZ5NX_o.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://ctuillbe.sirv.com/n/vagalume.jpg",TÚMULO DE VAGALUMES
+https://github.com/prolip/f/releases/download/a/tumulodevagalumes
+#EXTINF:0 type="video" tvg-logo="hhhh" group-title="ANIMAÇÃO/FAMÍLIA" background="hh",DA COLINA KOKUKIRO
+https://github.com/likup/n/releases/download/o/C0lin4.K0kur1k0
+#EXTINF:0 type="video" tvg-logo="hhhh" group-title="ANIMAÇÃO/FAMÍLIA" background="hh",O CONTO DA PRINCESA KAGUYA
+https://github.com/likup/n/releases/download/o/C0nt0.Princes4.K4guy4
+
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/5d/42/94/MECGDIC_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/5d/42/94/MECGDIC_o.jpg",O AUTO DA COMPADECIDA 1
+https://content.jwplatform.com/videos/iop0OCs7-C9tEYeUR.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/auto2.webp" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/auto2.jpg",O AUTO DA COMPADECIDA 2
+https://github.com/likup/n/releases/download/l/OAutC2
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/btj1.webp" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/btj1.jpg",OS FANTASMAS SE DIVERTEM
+https://github.com/likup/n/releases/download/o/btjc1
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/btj2.webp" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/btj2.jpg",OS FANTASMAS AINDA SE DIVERTEM: BEETLEJUICE BEETLEJUICE
+https://github.com/likup/n/releases/download/n/btjc2
+#EXTINF:0 type="video" tvg-logo="ht" group-title="COMÉDIA" background="ht",MONTY PYTHOM: A VIDA DE BRIAN
+https://github.com/likup/n/releases/download/o/MPAVdB
+#EXTINF:0 type="video" tvg-logo="http" group-title="COMÉDIA" background="http",INATIVIDADE PARANORMAL 1
+https://github.com/likup/n/releases/download/o/InaPa1
+#EXTINF:0 type="video" tvg-logo="htt" group-title="COMÉDIA" background="htt",INATIVIDADE PARANORMAL 2
+https://github.com/likup/n/releases/download/o/InaPa2
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/utdp4.webp" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/tdp4.jpg",UM TIRA DA PESADA 4
+https://github.com/likup/n/releases/download/n/TdP4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/frip.webp" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/fri.jpg",SEXTA-FEIRA EM APUROS
+https://github.com/likup/n/releases/download/o/SFeAp
+#EXTINF:0 type="video" tvg-logo="htt" group-title="COMÉDIA" background="https://i.imgur.com/qAvXEQm.jpeg",DURO DE ATUAR 2
+https://github.com/likup/n/releases/download/n/DuDAtu2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/82/c6/de/MESODI2_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/eb/57/0f/MESODHV_o.jpg",MENINAS MALVADAS
+https://github.com/likup/n/releases/download/n/mmvd
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d1/e5/9d/MESODI1_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/70/c4/db/MESODHY_o.jpg",MENINAS MALVADAS (2024)
+https://github.com/likup/n/releases/download/n/MMVD24
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f0/66/09/MESODI3_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/9d/f1/24/MESODHU_o.jpg",RICKY STANICKY
+https://github.com/likup/n/releases/download/n/Rknyk
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f1/a9/c6/MESODI4_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/c1/32/ce/MESODHT_o.jpg",TODOS MENOS VOCÊ
+https://github.com/likup/n/releases/download/n/tmvc
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/ba/30/27/MESODI0_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/5c/b1/8f/MESODHW_o.jpg",SANEAMENTO BÁSICO O FILME
+https://github.com/likup/n/releases/download/n/SnBaSc
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e8/e1/55/MENE2R8_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/2b/a6/83/MENE2R6_o.jpg",QUE HORAS EU TE PEGO?
+https://github.com/likup/n/releases/download/n/QHEUTP
+#EXTINF:0 type="video" tvg-logo="http" group-title="COMÉDIA" background="https",RELATOS SELVAGENS
+https://github.com/prolip/f/releases/download/c/Relatos.Selvagens.2015
+#EXTINF:0 type="video" tvg-logo="http" group-title="COMÉDIA" background="https",ANJOS DA LEI 1
+https://github.com/likup/n/releases/download/o/Anjos.da.Lei.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/05/55/cf/MEIDNRL_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/9a/f4/3b/MEIDNRM_o.jpg",BEM-VINDA A QUIXERAMOBIM
+https://github.com/prolip/f/releases/download/c/bem-vinda.a.quixeramobim
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/6c/e3/e5/MEHSRQW_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/9c/68/5a/MEHSRQU_o.jpg",NOITE INFELIZ
+https://github.com/prolip/f/releases/download/c/noite.infeliz
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/02/bc/6a/MEGZ66N_o.jpg" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/n/efes.jpg",ENTRE FACAS E SEGREDOS
+https://github.com/prolip/f/releases/download/c/entre.facas.e.segredos
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/13/45/6d/MEH2JOC_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/38/53/71/MEHQIOB_o.jpg",GLASS ONION: UM MISTÉRIO ENTRE FACAS E SEGREDOS
+https://github.com/prolip/f/releases/download/c/glass.onion
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/02/65/0a/MEBQEHS_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/0d/58/08/MEBQEHQ_o.jpg",BEAVIS E BUTT-HEAD DETONAM O UNIVERSO
+https://github.com/prolip/f/releases/download/c/Beavis.e.Butt.Detonam.o.Universo
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/30/8d/0c/MECA0U1_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/61/0b/5b/MECA0TY_o.jpg",O PESO DO TALENTO
+https://github.com/prolip/f/releases/download/c/o.peso.do.talento
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/20210124_135218.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/25/d1/78/MEF7XXL_o.jpg",UM PRÍNCIPE EM NOVA YORK 1
+https://content.jwplatform.com/videos/loM5pQrR-QRSW6kq9.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/8c/c2/6f/MEF7XXO_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/8c/c2/6f/MEF7XXO_o.jpg",UM PRÍNCIPE EM NOVA YORK 2
+https://content.jwplatform.com/videos/T28cylVF-NSkcn7Cl.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/b2-1.jpg" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/n/b2-1.jpg",BORAT: FITA DE CINEMA SEGUINTE
+https://github.com/prolip/f/releases/download/c/borat.2.dub.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f8/57/b4/MEF7Y3M_o.jpg" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/2/billted-1.jpg",BILL E TED: UMA AVENTURA FANTÁSTICA
+https://github.com/prolip/f/releases/download/c/bill.e.ted.1
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/billeted2.jpg" group-title="COMÉDIA" background="httt",BILL E TED: DOIS LOUCOS NO TEMPO
+https://github.com/prolip/f/releases/download/c/bill.e.ted.2
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/billeted3.jpg" group-title="COMÉDIA" background="https://to4data.files.wordpress.com/2021/01/billted3.jpg",BILL E TED 3: ENCARE A MÚSICA
+https://github.com/prolip/f/releases/download/c/bill.e.ted.3
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/2d/65/31/MEF7Y0G_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/4e/f3/2d/MEF7Y0D_o.jpg",JUMANJI: BEM-VINDO À SELVA
+https://content.jwplatform.com/videos/Qg7mKDNN-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b2/b9/d8/MEF7Y0F_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/ed/3d/36/MEF7Y0E_o.jpg",JUMANJI: PRÓXIMA FASE
+https://content.jwplatform.com/videos/iAjlA278-NtbRVC3C.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/6d/1c/1c/MEC3NPQ_o.jpg" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/22/jojo.jpg",JOJO RABBIT
+https://content.jwplatform.com/videos/DqnHIi3m-NwnrkkSt.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/zumbilandia.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/27/b6/80/MEF7Y6D_o.jpg",ZUMBILÂNDIA
+https://github.com/prolip/f/releases/download/c/zumbilandia.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e8/a0/aa/MEC3NB8_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/e7/c6/f0/MEF7Y6E_o.jpg",ZUMBILÂNDIA - ATIRE DUAS VEZES
+https://github.com/prolip/f/releases/download/c/zumbilandia.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d8/84/16/MEF7Y7C_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/d8/84/16/MEF7Y7C_o.jpg",TODO MUNDO QUASE MORTO
+https://github.com/prolip/f/releases/download/c/todo.mundo.quase.morto
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d6/2c/2b/MEI0Y10_o.jpg" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/22/euveh.jpg",ERA UMA VEZ EM HOLLYWOOD
+https://content.jwplatform.com/videos/3PQz8rNf-ABgby8qa.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/02/c1/d7/MEC3NB5_o.jpg" group-title="COMÉDIA" background="2/mib1.jpg",MIB - HOMENS DE PRETO 1
+https://content.jwplatform.com/videos/nMkKu5Ct-5TSzydBj.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/4d/3a/5e/MEC3NB7_o.jpg" group-title="COMÉDIA" background="2/mib2.jpg",MIB - HOMENS DE PRETO 2
+https://content.jwplatform.com/videos/FpZu9E2y-5TSzydBj.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/aa/5c/4c/MEC3NB4_o.jpg" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/2/mib3.jpg",MIB - HOMENS DE PRETO 3
+https://content.jwplatform.com/videos/Sjk5yk3Q-5TSzydBj.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/9c/b5/3c/MEC3NB6_o.jpg" group-title="COMÉDIA" background="httt",MIB - INTERNACIONAL
+https://content.jwplatform.com/videos/qDUZfQnd-0uvDYoAG.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/cf/31/1d/MEC3NBE_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/c4/9a/d1/MEF7YKD_o.jpg",MR BEAN - O FILME
+https://content.jwplatform.com/videos/Y9aCXoiO-EI71wRcp.mp4
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/N4zcQtG.jpeg" group-title="COMÉDIA" background="https://i.imgur.com/N4zcQtG.jpeg",AS FÉRIAS DE MR BEAN
+https://content.jwplatform.com/videos/maVeV0Xw-WRO9AFa5.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/53/0a/65/MEC3NB2_o.jpg" group-title="COMÉDIA" background="2/3patetas.jpg",OS TRÊS PATETAS
+https://content.jwplatform.com/videos/WwtxXdts-su2i4fvY.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c8/37/ff/MEF7YLU_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/c8/37/ff/MEF7YLU_o.jpg",CURTINDO A VIDA ADOIDADO
+https://content.jwplatform.com/videos/y4Ohwu5i-oXtn2fcS.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/1tdp.jpg" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/n/1tdp.jpg",UM TIRA DA PESADA
+https://content.jwplatform.com/videos/7Hlnbi4R-hK28dEPb.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/aviao.jpg" group-title="COMÉDIA" background="2/aviao.jpg",APERTEM OS CINTOS O PILOTO SUMIU
+https://github.com/prolip/f/releases/download/c/A.o.C.o.P.Sumiu
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/0d/97/df/MECGDH3_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/66/66/fa/MECGDH2_o.jpg",CORRA QUE A POLÍCIA VEM AÍ
+https://github.com/prolip/f/releases/download/c/Corra.que.a.Policia.Vem.Ai.1
+#EXTINF:0 type="video" tvg-logo="htt" group-title="COMÉDIA" background="htt",CORRA QUE A POLÍCIA VEM AÍ 2
+https://github.com/prolip/f/releases/download/c/Corra.que.a.Policia.Vem.Ai.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b9/4a/bb/MECGDJ0_o.jpg" group-title="COMÉDIA" background="https://images4.imagebam.com/2f/60/bd/MECGDIX_o.jpg",PAUL: O ALIEN FUGITIVO
+https://github.com/prolip/f/releases/download/c/paul.o.alien.fugitivo
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e4/16/60/MECA16C_o.jpg" group-title="COMÉDIA" background="httt",O TERNO DE 2 BILHÕES DE DOLARES
+https://content.jwplatform.com/videos/3DzY2wGf-nJ2q6WN3.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/ted1.jpg" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/22/ted-1.jpg",TED 1
+https://content.jwplatform.com/videos/nvdfLwLi-QOmQDbYo.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/p/ted2.jpg" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/22/ted-2.jpg",TED 2
+https://content.jwplatform.com/videos/ilVsOpsI-QOmQDbYo.mp4
+#EXTINF:0 type="video" tvg-logo="htb" group-title="COMÉDIA" background="httt",UM ESPIÃO E MEIO
+https://github.com/prolip/f/releases/download/c/um.espiao.e.meio
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/pixels.jpg" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/22/pixels.jpg",PIXELS
+https://github.com/prolip/f/releases/download/c/pixels
+#EXTINF:0 type="video" tvg-logo="https://www.rbsdirect.com.br/imagesrc/23172840.jpg" group-title="COMÉDIA" background="httt",AS BRANQUELAS
+https://content.jwplatform.com/videos/aRaqp1gA-EI71wRcp.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a7/d0/2a/MEC3NB1_o.jpg" group-title="COMÉDIA" background="2/todo.jpg",TODO PODEROSO
+https://content.jwplatform.com/videos/4kAOssWB-zJfxYVCz.mp4
+#EXTINF:0 type="video" tvg-logo="htt" group-title="COMÉDIA" background="http",DEBI E LÓIDE 1
+https://content.jwplatform.com/videos/BEnKUzok-jG69wtrL.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/20/61/67/MEI0Y0S_o.jpg" group-title="COMÉDIA" background="4/dl2.jpg",DEBI E LÓIDE 2
+https://content.jwplatform.com/videos/lVfXOtDh-jG69wtrL.mp4
+#EXTINF:0 type="video" tvg-logo="httpps" group-title="COMÉDIA" background="http",O MENTIROSO
+https://content.jwplatform.com/videos/15FYk27z-zJfxYVCz.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3f/6f/42/MEI0Y0Q_o.jpg" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/22/mascara.jpg",O MASKARA
+https://github.com/prolip/f/releases/download/c/o.maskara
+#EXTINF:0 type="video" tvg-logo="ht" group-title="COMÉDIA" background="https://ctuillbe.sirv.com/22/ventura.jpg",ACE VENTURA UM DETETIVE DIFERENTE
+https://content.jwplatform.com/videos/htZRM9uH-QUlYAaNZ.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/39/15/b7/MEI0Y0P_o.jpg" group-title="COMÉDIA" background="",QUERO SER GRANDE
+https://github.com/prolip/f/releases/download/c/quero.ser.grande
+#EXTINF:0 type="video" tvg-logo="http" group-title="COMÉDIA" background="HBH",QUESTÃO DE TEMPO
+https://github.com/likup/n/releases/download/n/ques.d.tmp
+
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/joca.webp" group-title="DRAMA" background="https://ctuillbe.sirv.com/joca.jpg",CORINGA: DELÍRIO A DOIS
+https://github.com/likup/n/releases/download/n/jok2
+#EXTINF:0 type="video" tvg-logo="htt" group-title="DRAMA" background="http",DIAS PERFEITOS (LEG)
+https://github.com/subnai/sres/releases/download/m/DPFT
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/vertgop.webp" group-title="DRAMA" background="https://ctuillbe.sirv.com/vertigo1.jpg",UM CORPO QUE CAI (LEG)
+https://github.com/likup/n/releases/download/n/vertg0.leg
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/Bmv0Ftm.jpeg" group-title="DRAMA" background="https://i.imgur.com/zfy50Qz.jpeg",GUERRA CIVIL
+https://github.com/likup/n/releases/download/n/GuCi
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e6/a4/7d/MEQUNCW_o.jpg" group-title="DRAMA" background="https://images4.imagebam.com/66/b5/1b/MEQUNCX_o.jpg",OPPENHEIMER
+https://github.com/likup/n/releases/download/n/0PPIE
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/01/e8/8d/MEPH18Q_o.jpg" group-title="DRAMA" background="https://images4.imagebam.com/db/7c/71/MEPH18R_o.jpg",RETRATOS FANTASMAS
+https://github.com/likup/n/releases/download/n/RETF4N
+#EXTINF:0 type="video" tvg-logo="http" group-title="DRAMA" background="https",O ABUTRE (LEG)
+https://github.com/likup/n/releases/download/o/abtre.leg
+#EXTINF:0 type="video" tvg-logo="http" group-title="DRAMA" background="https",DR STRANGELOVE (LEG)
+https://github.com/likup/n/releases/download/o/drstnglv.leg
+#EXTINF:0 type="video" tvg-logo="http" group-title="DRAMA" background="https",LARANJA MECÂNICA (leg)
+https://github.com/likup/n/releases/download/o/lrjmcn.leg
+
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/krv.webp" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/krv.jpg",KRAVEN: O CAÇADOR
+https://github.com/likup/n/releases/download/n/KRV
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/venom.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/5e/0a/a0/MEC8I1K_o.jpg",VENOM
+https://content.jwplatform.com/videos/xA5h2saw-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/5b/17/72/MEBQFHJ_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/n/veno2.jpg",VENOM - TEMPO DE CARNIFICINA
+https://cdn.jwplayer.com/videos/SeZsCedL-5xjLblpf.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/veno3.webp" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/veno3.jpg",VENOM: A ÚLTIMA RODADA
+https://github.com/likup/n/releases/download/n/veno3
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/ac/34/5c/MEC8IHF_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://i.imgur.com/CYXeKuM.jpeg",DEADPOOL 1
+https://content.jwplatform.com/videos/t1YKpq37-NwnrkkSt.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/2a/78/a5/MEC8IHH_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://i.imgur.com/LL5SVXS.jpeg",DEADPOOL 2
+https://content.jwplatform.com/videos/hD8yiBHD-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/depo.webp" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/dpe.jpg",DEADPOOL E WOLVERINE
+https://github.com/likup/n/releases/download/n/DpeWv
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/55/2e/f2/MEC8HR8_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://i.imgur.com/87vULl7.jpeg",DUNA
+https://cdn.jwplayer.com/videos/84p7Hpvw-3vWkCocR.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/ba/e3/ae/METB9NS_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/0e/56/a2/METB9NR_o.jpg",DUNA: PARTE DOIS
+https://github.com/likup/n/releases/download/n/dn4p2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a4/c6/60/MESODIB_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/8e/21/64/MESODHO_o.jpg",MADAME TEIA
+https://github.com/likup/n/releases/download/n/M4damweb
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3a/c2/cf/MENT3BH_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/9a/44/2f/MENT3BB_o.jpg",BESOURO AZUL
+https://github.com/likup/n/releases/download/n/BBLUE
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/33/b3/24/MEC0IE0_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/n/akira.jpg",AKIRA
+https://github.com/prolip/f/releases/download/f/akira
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/ghst.webp" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/ghst.jpg",GHOST IN THE SHELL: O FANTASMA DO FUTURO
+https://github.com/likup/n/releases/download/o/gitsh
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/eb/b9/c9/MEN7H4X_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/a1/05/78/MEN7H4W_o.jpg",PAPRIKA
+https://github.com/prolip/f/releases/download/f/p4prik
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/49/a9/8a/MELGRLJ_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/flsh.jpg",THE FLASH
+https://github.com/likup/n/releases/download/n/th3fl4sh
+#EXTINF:0 type="video" tvg-logo="http" group-title="FICÇÃO/HERÓIS" background="ht",A COR QUE CAIU DO ESPAÇO
+https://github.com/prolip/f/releases/download/f/4.c0r.D.Esp4c0
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/6f/1e/65/MEH0IMC_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/77/90/c5/MEH0IMA_o.jpg",A VASTIDÃO DA NOITE
+https://github.com/prolip/f/releases/download/f/a.vastidao.da.noite
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e8/07/25/MEC7BM1_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/79/05/a7/MEL9UTD_o.jpg",TUDO EM TODO LUGAR AO MESMO TEMPO
+https://github.com/prolip/f/releases/download/f/tudo.Todo.Lugar.a0.Mesmo.Tempo
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/batman.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/tbtm.jpg",THE BATMAN
+https://github.com/prolip/f/releases/download/f/Batman.Batman
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/18/4f/03/MEC8HQX_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/e7/17/7d/MEC8HQZ_o.jpg",MORBIUS
+https://github.com/prolip/f/releases/download/f/morbius
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/newmutants.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/n/novosm.jpg",OS NOVOS MUTANTES
+https://content.jwplatform.com/videos/8aSNxmGD-q6DicNGI.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/1d/e8/fe/MEC3NIB_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/1d/e8/fe/MEC3NIB_o.jpg",AD ASTRA
+https://content.jwplatform.com/videos/V2ZZcUx0-NwnrkkSt.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e1/bf/00/MEC8HWE_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/29/69/9f/MECHCUK_o.jpg",O HOMEM DE AÇO
+https://content.jwplatform.com/videos/STyeKs9x-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/bvs.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/c0/05/a3/MEC3Y0S_o.jpg",BATMAN VS SUPERMAN
+https://content.jwplatform.com/videos/2IHTQa6I-9KXv6jyv.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/17/76/55/MEC8HU1_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://i.imgur.com/Ah5oOXD.jpeg",LIGA DA JUSTIÇA DE ZACK SNYDER
+https://content.jwplatform.com/videos/6nHB44qR-BG6rhfSt.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a2/97/4e/MEC8HWC_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/b9/99/6e/MEC8HWD_o.jpg",ESQUADRÃO SUICIDA
+https://content.jwplatform.com/videos/hjLbx436-Gml01jdk.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/bf/37/cd/MEC8HU3_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/19/46/4f/MEC8HUC_o.jpg",O ESQUADRÃO SUICIDA
+https://github.com/prolip/f/releases/download/f/o.esquadr4o.suicid4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/maravilha.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/c5/f0/91/MEC8HWB_o.jpg",MULHER MARAVILHA
+https://content.jwplatform.com/videos/5Dhxw43a-Gml01jdk.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/mm84.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/76/7f/57/MEC8HWA_o.jpg",MULHER-MARAVILHA 1984
+https://content.jwplatform.com/videos/wFu38ZMN-F3o6hEvP.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/aquaman.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/n/aqu1.jpg",AQUAMAN
+https://content.jwplatform.com/videos/3iTV83kT-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/56/97/63/MESODIA_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/d7/84/d4/MESODHP_o.jpg",AQUAMAN 2: O REINO PERDIDO
+https://github.com/likup/n/releases/download/n/4guamn.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a0/d7/7f/MEGXPKU_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/12/e1/f9/MEHV1LY_o.jpg",ADÃO NEGRO
+https://github.com/prolip/f/releases/download/f/adao.negro
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/shazam-1.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/shz.jpg",SHAZAM!
+https://content.jwplatform.com/videos/D1HBfNz0-8xleGx2D.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/85/f7/9f/MEI2P15_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/d1/94/38/MELGQHX_o.jpg", SHAZAM! FÚRIA DOS DEUSES
+https://github.com/likup/n/releases/download/n/Sh4z4m.2
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/aves.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/aves.jpg",AVES DE RAPINA
+https://content.jwplatform.com/videos/bJ8vN9Rf-uppaA2vD.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/1f/0f/b9/MEBQEYP_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/1b/09/9c/MEC8HZ8_o.jpg",STAR WARS: A AMEAÇA FANTASMA
+https://content.jwplatform.com/videos/Bug8EOxL-0uvDYoAG.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3b/e1/28/MEBQEYV_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/df/4f/81/MEC8HZ7_o.jpg",STAR WARS: O ATAQUE DOS CLONES
+https://content.jwplatform.com/videos/MOmZTau0-0uvDYoAG.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f4/9e/c6/MEBQEYT_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/22/4b/d4/MEC8HZ6_o.jpg",STAR WARS: A VINGANÇA DOS SITH
+https://github.com/prolip/f/releases/download/f/star.wars.3.vinganca.dos.sith
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/90/c0/36/MEBQEYC_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/2/sw1.jpg",STAR WARS: UMA NOVA ESPERANÇA
+https://content.jwplatform.com/videos/XdS0I7nD-0uvDYoAG.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/36/84/33/MEBQEYA_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/2/sw2.jpg",STAR WARS: O IMPERIO CONTRA-ATACA
+https://content.jwplatform.com/videos/4nrE3dHK-0uvDYoAG.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/8c/e5/fd/MEBQEY9_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/2/sw3.jpg",STAR WARS: O RETORNO DE JEDI
+https://content.jwplatform.com/videos/WQlUJTvy-0uvDYoAG.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/50/a8/44/MEBQEYE_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/2/sww.jpg",STAR WARS: O DESPERTAR DA FORÇA
+https://content.jwplatform.com/videos/Vb3YWcEV-C9tEYeUR.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/eb/c1/c1/MEBQEYG_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/c9/a2/45/MEC8HZ1_o.jpg",STAR WARS: OS ULTIMOS JEDI
+https://content.jwplatform.com/videos/HsCjPeDh-C9tEYeUR.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a5/bd/27/MEBQEYK_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/2/sw.jpg",STAR WARS: A ASCENÇÃO SKYWALKER
+https://content.jwplatform.com/videos/R1VUKew5-tmrR3xm7.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/ro1.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/88/78/40/MEC8I0S_o.jpg",ROGUE ONE - UMA HISTÓRIA STAR WARS
+https://content.jwplatform.com/videos/CKxFQupB-C9tEYeUR.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/2/20210221_140140.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/solo.jpg",HAN SOLO - UMA HISTÓRIA STAR WARS
+https://content.jwplatform.com/videos/CwfZH5Q0-0uvDYoAG.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/36/bd/00/MEBQFHF_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/67/13/25/MEBQFJ2_o.jpg",DE VOLTA PARA O FUTURO 1
+https://content.jwplatform.com/videos/0m4Q4BLY-F3o6hEvP.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f2/26/21/MEBQFHH_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/f4/6f/3a/MEBQFIZ_o.jpg",DE VOLTA PARA O FUTURO 2
+https://content.jwplatform.com/videos/oRHmk2LP-F3o6hEvP.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c4/f1/cd/MEBQFHG_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/fe/62/47/MEBQFJ1_o.jpg",DE VOLTA PARA O FUTURO 3
+https://content.jwplatform.com/videos/22UbOzDj-F3o6hEvP.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/1b/7f/f3/MECX7W8_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/11/61/1f/MECX7W7_o.jpg",LOBISOMEM NA NOITE
+https://github.com/prolip/f/releases/download/f/lobisomem.na.noite
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/0d/29/cd/MEBQFHI_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/2/hulk.jpg",O  INCRIVEL HULK
+https://content.jwplatform.com/videos/f1LuRg6v-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/capitc3a3.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/88/56/73/MEHV1LZ_o.jpg",CAPITÃ MARVEL
+https://content.jwplatform.com/videos/3QfaB1k5-9KXv6jyv.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/4b/f8/60/MESODIC_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/48/f8/dd/MESODHN_o.jpg",AS MARVELS
+https://github.com/likup/n/releases/download/n/M4rVlS
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/6a/e7/d9/MEC8HR6_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/n/etrn.jpg",ETERNOS
+https://github.com/prolip/f/releases/download/f/Eternos
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/65/6b/2d/MEC8HR7_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/n/shang1.jpg",SHANG-CHI E A LENDA DOS DEZ ANÉIS
+https://github.com/prolip/f/releases/download/f/Shang.Chi
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/4b/23/f7/MEC8HU2_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/n/blackwidow.jpg",VIÚVA NEGRA
+https://content.jwplatform.com/videos/4AgVnxk5-WuDoW7Xa.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/43/c5/a8/MEBQFFW_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/6c/fc/ed/MECHCUE_o.jpg",PANTERA NEGRA
+https://content.jwplatform.com/videos/Nxob9NfL-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/0d/53/96/MEHSRQS_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/33/fa/98/MEIC2HA_o.jpg",PANTERA NEGRA: WAKANDA PARA SEMPRE
+https://github.com/likup/n/releases/download/n/P4nter4.Negr4.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/5a/99/08/MEBQFFV_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/48/13/1a/MEBQFHD_o.jpg",DOUTOR ESTRANHO
+https://content.jwplatform.com/videos/xIEdClub-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3c/48/5e/MEBGBRC_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/43/a4/ea/MENB3PV_o.jpg",DOUTOR ESTRANHO NO MULTIVERSO DA LOUCURA
+https://github.com/prolip/f/releases/download/f/dr.estranho.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/52/1c/7a/MEBQFF2_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/68/81/4a/MELGRIX_o.jpg",GUARDIÕES DA GALAXIA
+https://content.jwplatform.com/videos/sl6pjhK1-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/eb/71/bd/MEBQFF3_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/1e/fe/ea/MELGRIY_o.jpg",GUARDIÕES DA GALAXIA VOL.2
+https://content.jwplatform.com/videos/NaQ0vJJN-Yd4xCB27.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/7b/97/b6/MEI2P1O_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/c0/46/16/MENB3Q5_o.jpg",GUARDIÕES DA GALÁXIA VOL 3
+https://github.com/likup/n/releases/download/n/GDGV32023DUB
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/19/98/6f/MEFYVVH_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/77/64/4b/MEH2JOJ_o.jpg",GUARDIÕES DA GALÁXIA: ESPECIAL DE FESTAS
+https://github.com/prolip/f/releases/download/f/guardioes.da.galaxia.natal
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/33/11/98/MEBQFBP_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/07/55/51/MEC8I5B_o.jpg",HOMEM FORMIGA
+https://content.jwplatform.com/videos/AOE3WVth-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/1a/42/61/MEBQFBQ_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/38/41/50/MEC8I5C_o.jpg",HOMEM-FORMIGA E A VESPA
+https://content.jwplatform.com/videos/3b62hTEr-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/88/75/e2/MEI2P1F_o.jpg",HOMEM-FORMIGA E A VESPA: QUANTUMANIA
+https://github.com/likup/n/releases/download/n/Homem-F0rmig4.3
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c1/f4/60/MEBQFAS_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://i.imgur.com/4lCbxtR.jpeg",HOMEM-ARANHA: DE VOLTA AO LAR
+https://content.jwplatform.com/videos/nCiCgXs4-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/74/0f/28/MEBQFAT_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://i.imgur.com/9hpVDDR.jpeg",HOMEM-ARANHA: LONGE DE CASA
+https://content.jwplatform.com/videos/Dlu6shZV-0uvDYoAG.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/ha3.jpg" group-title="FICÇÃO/HERÓIS" background="https://i.imgur.com/S7rciCe.jpeg",HOMEM-ARANHA: SEM VOLTA PARA CASA
+https://github.com/prolip/f/releases/download/f/homem.aranha.sem.volta.pra.casa
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a6/c3/6a/MEBQFBT_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://i.imgur.com/4If2gBS.jpeg",THOR
+https://content.jwplatform.com/videos/y3gQyRfi-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/61/64/0e/MEBQFBS_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://i.imgur.com/LDHYxTk.jpeg",THOR: O MUNDO SOMBRIO
+https://content.jwplatform.com/videos/zHEw799b-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/16/2e/eb/MEBQFBR_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://i.imgur.com/f2YmjtJ.jpeg",THOR: RAGNAROK
+https://content.jwplatform.com/videos/98I1viXM-xYyOPJaG.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/21/03/07/MECD6AD_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://i.imgur.com/6y614NG.jpeg",THOR: AMOR E TROVÃO
+https://bit.ly/3UGH5uI
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/af/3e/1d/MEBQFCC_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/e1/b6/7e/MEC8I5J_o.jpg",CAPITÃO AMÉRICA: O PRIMEIRO VINGADOR
+https://content.jwplatform.com/videos/pHWpbgQs-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/db/ff/45/MEBQFCE_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/64/a3/79/MECHCUD_o.jpg",CAPITÃO AMÉRICA: O SOLDADO INVERNAL
+https://content.jwplatform.com/videos/VdXg3Pj5-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/37/b5/a6/MEBQFCB_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/95/8a/22/MEBQFEW_o.jpg",CAPITÃO AMÉRICA: GUERRA CIVIL
+https://github.com/prolip/f/releases/download/f/Cap.4merica.Guerra.Civil
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/95/e0/5a/MEBQFBV_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/b3/6f/a7/MEC8I9O_o.jpg",HOMEM DE FERRO 1
+https://content.jwplatform.com/videos/QdYOgtr3-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d4/a3/34/MEBQFBU_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/38/74/a4/MEC8I9L_o.jpg",HOMEM DE FERRO 2
+https://content.jwplatform.com/videos/RQuhjauV-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/9b/73/d3/MEBQFBW_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/c0/80/bc/MEC8I9I_o.jpg",HOMEM DE FERRO 3
+https://content.jwplatform.com/videos/jodNg0A7-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d3/d1/69/MEBQF1S_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/2/V1.jpg",OS VINGADORES
+https://content.jwplatform.com/videos/XMTjqSz2-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/6c/00/10/MEBQF1T_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/2/V2.jpg",VINGADORES: ERA DE ULTRON
+https://content.jwplatform.com/videos/g9G6rqt2-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/5c/04/b8/MEBQF1P_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/d7/66/8a/MEHZX8L_o.jpg",VINGADORES: GUERRA INFINITA
+https://content.jwplatform.com/videos/KlyPuFQL-NwnrkkSt.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/9c/15/15/MEBQF1Q_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/2/V4.jpg",VINGADORES: ULTIMATO
+https://content.jwplatform.com/videos/5ltbVBOc-8xleGx2D.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/ha1.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/ha1.jpg",HOMEM-ARANHA 1
+https://content.jwplatform.com/videos/3oKk2SG2-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/ha2.jpg" group-title="FICÇÃO/HERÓIS" background="hthttps://ctuillbe.sirv.com/ha2.jpg",HOMEM-ARANHA 2
+https://content.jwplatform.com/videos/TwVdiWB0-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/ha3.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/ha3.jpg",HOMEM-ARANHA 3
+https://content.jwplatform.com/videos/YSKjZd9z-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/tasm1.jpg" group-title="FICÇÃO/HERÓIS" background="https://i.imgur.com/MS1H3Wr.jpeg",O ESPETACULAR HOMEM ARANHA
+https://content.jwplatform.com/videos/tZh2xE7V-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/tasm2.jpg" group-title="FICÇÃO/HERÓIS" background="https://i.imgur.com/7t0sG8d.jpeg",O ESPETACULAR HOMEM ARANHA 2
+https://content.jwplatform.com/videos/kVpoc7Re-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/qoM8sxn.jpeg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/7e/92/28/MEC3YA1_o.jpg",BATMAN BEGINS
+https://content.jwplatform.com/videos/Ck4oOwXz-yN8CsUnk.mp4
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/DToylU9.jpeg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/4f/09/8a/MEC3YA0_o.jpg",BATMAN: O CAVALEIRO DAS TREVAS
+https://content.jwplatform.com/videos/HYGr0Tu8-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/LBeCM5O.jpeg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/cf/be/08/MEC3YA2_o.jpg",BATMAN: O CAVALEIRO DAS TREVAS RESSURGE
+https://content.jwplatform.com/videos/3owvux73-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/cqX4kN8.jpeg" group-title="FICÇÃO/HERÓIS" background="https://i.imgur.com/uAHrMux.jpeg",BATMAN (1989)
+https://content.jwplatform.com/videos/P3USh1tQ-bWtniFnP.mp4
+#EXTINF:0 type="video" tvg-logo="http" group-title="FICÇÃO/HERÓIS" background="http",BATMAN O RETORNO
+https://content.jwplatform.com/videos/5TQ5EYWg-bWtniFnP.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f4/0f/3f/MEC3YAM_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/8b/00/d2/MEC3YAL_o.jpg",SUPERMAN - O FILME
+https://github.com/prolip/f/releases/download/f/superman.o.filme
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/bb/1c/d5/MEBON8T_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/8d/8b/0d/MEBON8J_o.jpg",SUPERMAN - O RETORNO
+https://github.com/ted200/f/releases/download/p/superman.o.retorno
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a3/11/dd/MEBON8U_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/1f/4d/19/MEBON8L_o.jpg",WATCHMEN - O FILME
+https://content.jwplatform.com/videos/ZiXLSzrE-nivL2rkA.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/jn1.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/85/ef/29/MEC3YBO_o.jpg",JOGADOR NÚMERO 1
+https://github.com/prolip/f/releases/download/f/jogador.numero.1
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/pr-2.jpg" group-title="FICÇÃO/HERÓIS" background="https://i.imgur.com/ByL8PJe.jpeg",POWER RANGERS
+https://github.com/prolip/f/releases/download/f/P0wer.R4ngers.2017
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/4f/d6/27/MEC3NI3_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/9b/5f/9b/MEC8IC1_o.jpg",X-MEN
+https://content.jwplatform.com/videos/S633OLm2-Yd4xCB27.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/fb/6b/b9/MEC3NHX_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/d2/55/f0/MEC8IC2_o.jpg",X-MEN 2
+https://content.jwplatform.com/videos/u2fs3UUx-nivL2rkA.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/40/c0/36/MEC3NI0_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/22/xmen-3.jpg",X-MEN: O CONFRONTO FINAL
+https://content.jwplatform.com/videos/v1ghhxS7-Yd4xCB27.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/87/75/35/MEC3NI2_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/22/xmen-4.jpg",X-MEN: PRIMEIRA CLASSE
+https://github.com/prolip/f/releases/download/f/X-Men.4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/49/24/31/MEC3NI7_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/2/x5.jpg",X-MEN: DIAS DE UM FUTURO ESQUECIDO
+https://content.jwplatform.com/videos/gpkJ5FFG-Yd4xCB27.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e2/26/dd/MEC3NI8_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/0e/da/61/MEC8IC8_o.jpg",X-MEN: APOCALIPSE
+https://content.jwplatform.com/videos/85KQ40d4-nivL2rkA.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/fenix.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/d1/3a/eb/MEC8IC9_o.jpg",X-MEN: FÊNIX NEGRA
+https://content.jwplatform.com/videos/8AcgRkQq-9KXv6jyv.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/5d/7e/b6/MEC3NI4_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/n/worigens.jpg",X-MEN ORIGINS: WOLVERINE
+https://content.jwplatform.com/videos/bTgLe7Ya-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c3/11/c3/MEC3NJO_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/n/wimortal.jpg",WOLVERINE IMORTAL
+https://content.jwplatform.com/videos/fvc5Dwvf-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/logan.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/b5/d6/0b/MEC8IGT_o.jpg",LOGAN
+https://content.jwplatform.com/videos/I659VyaF-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/bld.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/bld.jpg",BLADE - O CAÇADOR DE VAMPIROS
+https://github.com/likup/n/releases/download/o/bld1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c4/66/1d/MEC3NHV_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/8c/47/50/MECCNZX_o.jpg",LANTERNA VERDE
+https://content.jwplatform.com/videos/8mfToNxJ-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/92/e0/64/MELCWEK_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/87/cb/ec/MELCWDJ_o.jpg",V DE VINGANÇA 
+https://content.jwplatform.com/videos/Ve7p09DO-l5r3qFf5.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/20/4a/95/MELCWE1_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/07/4a/ad/MELCWDE_o.jpg",CONSTANTINE
+https://content.jwplatform.com/videos/N0mk50kh-Ay5r7f3Q.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e6/5d/14/MEC3YEV_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/22/f1.png",QUARTETO FANTASTICO
+https://content.jwplatform.com/videos/M7a0TFAs-Yd4xCB27.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/da/fa/7c/MEC3YET_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/22/f2.png",QUARTETO FANTASTICO E O SURFISTA PRATEADO
+https://content.jwplatform.com/videos/lFeoCejN-Yd4xCB27.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/1e/cb/9b/MEC3NJP_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/2/quarteto.jpg",QUARTETO FANTASTICO (2015)
+https://content.jwplatform.com/videos/QThsTTXB-Yd4xCB27.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/42/27/a1/MELCWEN_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/b0/e4/75/MELCWDF_o.jpg",HULK
+https://content.jwplatform.com/videos/CichAWmH-FOZQdhMy.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/66/d1/8d/MEBQEH8_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/50/a9/c8/MEBQEH1_o.jpg",HELLBOY 1
+https://content.jwplatform.com/videos/peWdc3ls-VHvtoAN2.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c1/25/95/MEBQEH9_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/b9/c8/fb/MEBQEH5_o.jpg",HELLBOY 2 - O EXÉRCITO DOURADO
+https://content.jwplatform.com/videos/k85aAlnM-5TSzydBj.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a8/5a/72/MEBQEHA_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/2d/55/44/MEBQEGX_o.jpg",HELLBOY
+https://content.jwplatform.com/videos/CQXwfnfQ-5TSzydBj.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/hby.webp" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/hby.jpg",HELLBOY E O HOMEM TORTO
+https://github.com/likup/n/releases/download/n/Hllby
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b0/90/60/MEBQEGV_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/1d/be/bd/MEBQEGS_o.jpg",MOTOQUEIRO FANTASMA 1
+https://content.jwplatform.com/videos/AUxJmlPC-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/4f/46/f0/MEBQEGU_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/d9/b1/f1/MEBQEGT_o.jpg",MOTOQUEIRO FANTASMA 2
+https://content.jwplatform.com/videos/9QuRbrVO-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b3/98/9e/MECCO1U_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/09/17/1f/MECCO1N_o.jpg",MATRIX
+https://github.com/prolip/f/releases/download/f/Matrix
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f9/c6/5f/MECCO1S_o.jpg" group-title="FICÇÃO/HERÓIS" background="httt",MATRIX RELOAD
+https://github.com/prolip/f/releases/download/f/matrix.reloaded
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/0b/c8/80/MECCO1Q_o.jpg" group-title="FICÇÃO/HERÓIS" background="httt",MATRIX REVOLUTION
+https://github.com/prolip/f/releases/download/f/Matrix.Revolutions
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/mFODiRk.jpeg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/17/22/9d/MEC8HQW_o.jpg",MATRIX RESSURECTIONS
+https://github.com/prolip/f/releases/download/f/Matrix.4
+#EXTINF:0 type="video" tvg-logo="https://i.ibb.co/yQ997KM/sda-1.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/22/senhor-1.jpg",SENHOR DOS ANÉIS: A SOCIEDADE DO ANÉL
+https://content.jwplatform.com/videos/Eh71GHIG-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/fe/7b/7c/ME9JIJ8_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/22/senhor-2.jpg",SENHOR DOS ANÉIS: AS DUAS TORRES
+https://content.jwplatform.com/videos/DP7ZRMJ4-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/86/14/f6/ME9JIJ9_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/22/senhor-3.jpg",SENHOR DOS ANÉIS: O RETORNO DO REI
+https://content.jwplatform.com/videos/dF2UQG95-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a8/6b/ef/MECCO3R_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/22/20201218_153340.jpg",HOBBIT - UMA JORNADA INESPERADA
+https://content.jwplatform.com/videos/39X9lO31-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/26/c4/f1/MECCO3Q_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/22/20201218_153327.jpg",HOBBIT - A DESOLAÇÃO DE SMAUG
+https://content.jwplatform.com/videos/2CtLHxGs-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/19/8f/a4/MECCO3O_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/22/20201218_153312.jpg",HOBBIT - A BATALHA DOS CINCO EXERCITOS
+https://content.jwplatform.com/videos/l5bsRgI6-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/ed/78/93/MECCO4O_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/22/pedra-1.jpg",HARRY POTTER E A PEDRA FILOSOFAL
+https://content.jwplatform.com/videos/sxmhrYaG-7qlVbwrC.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/12/15/16/MECCO4N_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://github.com/ted200/c/releases/download/i/hp2.jpg",HARRY POTTER E A CÂMARA SECRETA
+https://content.jwplatform.com/videos/rlvoKa2Z-7qlVbwrC.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/25/57/cc/MECCO4M_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://github.com/ted200/c/releases/download/i/hp3.jpg",HARRY POTTER E O PRISIONEIRO DE ASKABAN
+https://content.jwplatform.com/videos/BUFAOxMG-7qlVbwrC.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/ff/43/8c/MECCO4L_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://github.com/ted200/c/releases/download/i/hp4.jpg",HARRY POTTER E O CÁLICE DE FOGO
+https://content.jwplatform.com/videos/Kk008ueJ-7qlVbwrC.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/69/dd/81/MECCO4K_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://github.com/ted200/c/releases/download/i/hp5.jpg",HARRY POTTER E A ORDEM DA FÊNIX
+https://content.jwplatform.com/videos/FWuzwsQr-7qlVbwrC.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/83/8c/0f/MECCO4J_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://github.com/ted200/c/releases/download/i/hp6.jpg",HARRY POTTER E O ENIGMA DO PRÍNCIPE
+https://content.jwplatform.com/videos/iEam9STw-7qlVbwrC.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/91/9f/00/MECCO4I_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://github.com/ted200/c/releases/download/i/hp7.jpg",HARRY POTTER E AS RELÍQUIAS DA MORTE: PARTE 1
+https://content.jwplatform.com/videos/NbWRikTd-7qlVbwrC.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e6/7d/cf/MECCO4H_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://github.com/ted200/c/releases/download/i/hp8.jpg",HARRY POTTER E AS RELÍQUIAS DA MORTE: PARTE 2 
+https://content.jwplatform.com/videos/BZTuV4MW-7qlVbwrC.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/animais1.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/12/bf/5a/MECCO7U_o.jpg",ANIMAIS FANTASTICOS E ONDE HABITAM
+https://content.jwplatform.com/videos/FxQ6Nb1T-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/animais2.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/00/09/c8/MECCO7V_o.jpg",ANIMAIS FANTASTICOS: OS CRIMES DE GRINDEWALD
+https://content.jwplatform.com/videos/Ul2GHBu2-bacgYk0M.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/ea/f2/46/MEC8HPP_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/bd/ea/29/MEC8HPQ_o.jpg",ANIMAIS FANTÁSTICOS: OS SEGREDOS DE DUMBLEDORE
+https://github.com/prolip/f/releases/download/f/animais.fantasticos.3
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f0/31/d0/MELCWED_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/4b/09/09/MELCWDP_o.jpg",VIDA
+https://content.jwplatform.com/videos/vGB3PMKs-8IUV9bjs.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/luc.webp" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/5c/b2/48/MELCWDN_o.jpg",LUCY
+https://github.com/likup/n/releases/download/n/luc
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/85/ed/4b/MELCWE5_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/fd/fb/a1/MELCWDW_o.jpg",JUMPER
+https://content.jwplatform.com/videos/v34AZbTS-XP4H4gai.mp4
+PAPRIK
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f5/bf/9c/MEH0IMB_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/60/e7/fa/MEH0IM9_o.jpg",HIGH LIFE - NOVA VIDA
+https://github.com/prolip/f/releases/download/f/high.life
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/2b/4d/83/MEC3NJN_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://ctuillbe.sirv.com/22/20201218_152637.jpg",GRAVIDADE
+https://github.com/prolip/f/releases/download/f/gravidade
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3f/b3/9e/MEC3NHS_o.jpg" group-title="FICÇÃO/HERÓIS" background="httt",A CHEGADA
+https://github.com/prolip/f/releases/download/f/a.chegada
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d4/d6/2b/MEF6GYB_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/d4/d6/2b/MEF6GYB_o.jpg",EFEITO BORBOLETA 
+https://content.jwplatform.com/videos/VWtzre36-b7xaQJ9z.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c5/07/e6/MEF6H7Y_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/34/3e/07/MEF6HBF_o.jpg",AMNESIA
+https://github.com/prolip/f/releases/download/f/amnesia
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f7/cf/16/MEF6H7U_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/08/53/c4/MEF6HBA_o.jpg",O GRANDE TRUQUE
+https://github.com/prolip/f/releases/download/f/o-grande-truque
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/42/8e/df/MEC3NHR_o.jpg" group-title="FICÇÃO/HERÓIS" background="htttps://images4.imagebam.com/42/8e/df/MEC3NHR_o.jpg",INTERESTELAR
+https://github.com/prolip/f/releases/download/f/Interestelar
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/88/9b/50/MECCO8I_o.jpg" group-title="FICÇÃO/HERÓIS" background="https://images4.imagebam.com/88/9b/50/MECCO8I_o.jpg",BLADE RUNNER 2049
+https://github.com/prolip/f/releases/download/f/B.R.2049
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/23/59/a9/MECA15J_o.jpg" group-title="FICÇÃO/HERÓIS" background="httt",CONTATOS IMEDIATOS DE TERCEIRO GRAU
+https://github.com/prolip/f/releases/download/f/contatos-imediatos-do-terceiro-grau
+
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/nsft.webp" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/nsft.jpg",NOSFERATU
+https://github.com/likup/n/releases/download/n/NSFT
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/be/94/22/MEGZ5NR_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/91/3d/88/MEGZ5NQ_o.jpg",TERRIFIER 1
+https://github.com/prolip/f/releases/download/t/aterrorizante.1
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/trf2.jpg" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/trf2.jpg",TERRIFIER 2
+https://github.com/prolip/f/releases/download/t/aterrorizante.2
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/trf3.webp" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/trf3.jpg",TERRIFIER 3
+https://github.com/likup/n/releases/download/n/Trrf3
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/arml.webp" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/arml.jpg",ALIEN: ROMULUS
+https://github.com/likup/n/releases/download/n/AlRml
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/ee/b7/fd/MEGXPLR_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/95/94/1a/MEGXPLQ_o.jpg",SORRIA 1
+https://github.com/prolip/f/releases/download/t/sorria
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/sml2.webp" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/sml2.jpg",SORRIA 2
+https://github.com/likup/n/releases/download/n/Sri2
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/abdm.webp" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/abdm.jpg",ABRAÇO DE MÃE
+https://github.com/likup/n/releases/download/n/abdme
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/spk.webp" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/spk.jpg",NÃO FALE O MAL
+https://github.com/likup/n/releases/download/n/SpkN0Ml
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/vamp.webp" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/vamp.jpg",HORA DO VAMPIRO
+https://github.com/likup/n/releases/download/n/HrV4mp
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/longp.webp" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/long1.jpg",LONGLEGS (LEG)
+https://github.com/likup/n/releases/download/n/L0g.LeG
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/devil.webp" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/devil1.jpg",ENTREVISTA COM O DEMÔNIO
+https://github.com/likup/n/releases/download/n/l4tedem0
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/trap.webp" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/arm1.jpg",ARMADILHA
+https://github.com/likup/n/releases/download/n/tr4p
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/84/a7/9d/MEGZ65M_o.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/72eoP0b.jpeg",UM LUGAR SILENCIOSO
+https://github.com/prolip/f/releases/download/t/um.lugar.silencioso.1
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/lugarsilencioso2.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/ZiohjFh.jpeg",UM LUGAR SILENCIOSO: PARTE 2
+https://github.com/prolip/f/releases/download/t/um.lugar.silencioso.2
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/d1p.webp" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/d1.jpg",UM LUGAR SILENCIOSO: DIA UM
+https://github.com/likup/n/releases/download/n/lugsi1
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/zWKuxAP.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/Cdsmr5E.jpeg",A PRIMEIRA PROFECIA
+https://github.com/likup/n/releases/download/n/1Pr0fc
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/KJM3AmM.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/KJM3AmM.jpeg",ABIGAIL
+https://github.com/likup/n/releases/download/n/abg
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/3OGhUN5.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/5Tw87U5.jpeg",O TARÔ DA MORTE
+https://github.com/likup/n/releases/download/n/t4r0t
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/85/e8/a8/METB9NN_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/cf/76/49/METB9NX_o.jpg",O MAL QUE NOS HABITA
+https://github.com/likup/n/releases/download/n/M4l.N0s.H4bit
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/09/db/b9/MESOTWJ_o.jpeg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/09/db/b9/MESOTWJ_o.jpeg",MERGULHO NOTURNO
+https://github.com/likup/n/releases/download/n/mntrn0
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/18/a5/be/MEQUMWP_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/b9/c4/11/MEQUMWO_o.jpg",O MUNDO DEPOIS DE NÓS
+https://github.com/likup/n/releases/download/n/OMDPDNS
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c6/60/2b/MEQUMWU_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/8f/f0/2a/MEQUMWL_o.jpg",O EXORCISTA: O DEVOTO
+https://github.com/likup/n/releases/download/n/EX0rCISTBELIE
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e4/fe/81/MEQ8XGL_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/1b/1e/b0/MEQ8XGI_o.jpg",O ASSASSINO
+https://github.com/likup/n/releases/download/n/DEK1LL3R
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e1/67/9d/MEQ8XGM_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/78/39/18/MEQ8XGH_o.jpg",THE BLACKENING
+https://github.com/likup/n/releases/download/n/bl4ck3n1ng
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3a/50/3f/MEPGZD5_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/95/aa/20/MEPGZD3_o.jpg",FALE COMIGO
+https://github.com/likup/n/releases/download/n/F4lECMG
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/ff/01/b9/MEPGZR2_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/d2/af/f7/MEPGZQZ_o.jpg",NINGUÉM VAI TE SALVAR
+https://github.com/likup/n/releases/download/n/NVTSLVR
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/8b/29/80/MEPH011_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/c9/b1/08/MEPH010_o.jpg",DEZESSEIS FACADAS
+https://github.com/likup/n/releases/download/n/DF4KD4S
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a8/b9/cc/MEPGZI4_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/ca/e8/58/MEPGZI6_o.jpg",BOOGEYMAN: SEU MEDO É REAL
+https://github.com/likup/n/releases/download/n/BSMERE4L
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b8/57/fb/MELCX33_o.jpg" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/n/sobntr1.jpg",SOBRENATURAL
+https://content.jwplatform.com/videos/2G50RXlw-Ay5r7f3Q.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c8/95/a8/MENB3Q0_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/75/63/69/MENB3PY_o.jpg",SOBRENATURAL 2
+https://content.jwplatform.com/videos/XC19TmS3-Ay5r7f3Q.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/2e/1c/68/MENB3Q2_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/18/d2/ff/MENB3PZ_o.jpg",SOBRENATURAL: A PORTA VERMELHA
+https://github.com/likup/n/releases/download/n/S0BR5
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/2a/c9/d0/MEM7S9O_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/9b/79/c2/MEM7S9L_o.jpg",DESAPARECIDA
+https://github.com/likup/n/releases/download/n/Des4p4recid4.d4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b3/05/6b/MEI2P1M_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/a4/c9/6e/MEL9UT1_o.jpg",A MORTE DO DEMÔNIO: A ASCENSÃO
+https://github.com/prolip/f/releases/download/t/Evil.Dead.Rise
+#EXTINF:0 type="video" tvg-logo="http" group-title="TERROR/SUSPENSE" background="http",CORRENTE DO MAL
+https://github.com/likup/n/releases/download/n/c0rretdm
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f3/1a/a1/MEL9V6I_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/f3/1a/a1/MEL9V6I_o.jpg",O EXORCISTA DO PAPA
+https://github.com/likup/n/releases/download/n/exorcism0.d0.p4p4.papa
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/af/31/20/MEMEY1B_o.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/lwNDE3I.jpeg",PÂNICO 1
+https://github.com/prolip/f/releases/download/t/panico.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f4/6f/ce/MEMEY18_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/f8/9e/6c/MEMEY0S_o.jpg",PÂNICO 2
+https://github.com/prolip/f/releases/download/t/panico.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a0/25/2f/MEMEY16_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/2a/7e/3e/MEMEY0U_o.jpg",PÂNICO 3
+https://github.com/prolip/f/releases/download/t/panico.3
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/03/45/06/MEMEY11_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/86/d8/e1/MEMEY0W_o.jpg",PÂNICO 4
+https://github.com/prolip/f/releases/download/t/panico.4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/panico.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/XUaofQm.jpeg",PÂNICO 5
+https://github.com/prolip/f/releases/download/t/panico.5
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/6c/c5/80/MEI2P74_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/a3/0f/31/MEI2P73_o.jpg",PÂNICO 6
+https://github.com/prolip/f/releases/download/t/Panico.6
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b6/c8/f2/MEI2HM2_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/6f/f8/9b/MEIC24V_o.jpg",M3GAN
+https://github.com/prolip/f/releases/download/t/M3GAN
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/00/c4/2c/MEI7IKJ_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/4b/41/8f/MEI7IKI_o.jpg",A QUEDA
+https://github.com/prolip/f/releases/download/t/a.queda
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/45/7d/81/MEI5ZX9_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/ea/cc/58/MEI5ZX6_o.jpg",O MENU
+https://github.com/prolip/f/releases/download/t/o.menu
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/7f/b7/0f/MEC2IGJ_o.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/vbsaUtH.jpeg",A ÓRFÃ 1
+https://github.com/prolip/f/releases/download/t/orfa.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d1/9e/8e/MEG3NII_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/64/e7/df/MEG3NIH_o.jpg",A ÓRFÃ 2
+https://github.com/prolip/f/releases/download/t/orfa.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/9e/21/08/MEFYR3M_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/44/45/e7/MEFYR3I_o.jpg",NOITES BRUTAIS
+https://github.com/prolip/f/releases/download/t/noites.brutais
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/6e/c4/05/MECD9W8_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/5a/1d/9b/MECD9WB_o.jpg",NÃO! NÃO OLHE!
+https://github.com/prolip/f/releases/download/t/nao.não.olhe
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/dd/39/a4/MEBRE3W_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/02/96/b6/MEBRE3Y_o.jpg",O TELEFONE PRETO
+https://github.com/prolip/f/releases/download/t/o.telefone.preto
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/75/2a/09/MEGZ5UB_o.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/z12YPxf.jpeg",MASSACRE DA SERRA ELÉTRICA: RETORNO DE LEATHERFACE
+https://github.com/prolip/f/releases/download/t/Massacre.Serra.Eletrica.Retorno.de.Leatherface
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/93/b8/68/MEGZ5WM_o.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/YvdzCMO.jpeg",MALIGNO
+https://github.com/prolip/f/releases/download/t/maligno
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/rdm-p1.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/74/79/87/MEGZ63A_o.jpg",RUA DO MEDO: 1994 - PARTE 1
+https://github.com/prolip/f/releases/download/t/rua.do.medo.1
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/rdm2p.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/43/3b/e2/MEGZ63B_o.jpg",RUA DO MEDO: 1978 - PARTE 2
+https://github.com/prolip/f/releases/download/t/rua.do.medo.2
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/rdm-3-1.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/04/fa/60/MEGZ63D_o.jpg",RUA DO MEDO: 1666 - PARTE 3
+https://github.com/prolip/f/releases/download/t/rua.do.medo.3
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/56/81/f8/MEI2GR7_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/9e/66/ba/MEGZ68G_o.jpg",UM CLÁSSICO FILME DE TERROR
+https://github.com/prolip/f/releases/download/t/classico.filme.de.terror
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/0e/e7/90/MEI2GR9_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/0e/e7/90/MEI2GR9_o.jpg",ROGAI POR NÓS
+https://github.com/prolip/f/releases/download/t/rogai.por.nos
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/2/freakky.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/db/54/25/MEGZ66R_o.jpg",FREAKY: NO CORPO DE UM ASSASSINO
+https://github.com/prolip/f/releases/download/t/freaky
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/77/89/51/MEGZ66P_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/a6/d5/57/MEGZ66M_o.jpg",O HOMEM INVISÍVEL
+https://content.jwplatform.com/videos/70nmsrVm-vwWkUh9I.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/20201221_182518.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/49/16/ad/MEGZ67R_o.jpg",DOUTOR SONO
+https://github.com/prolip/f/releases/download/t/doutor.sono
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/2f/37/19/MEGZ67W_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/23/e1/19/MEGZ67T_o.jpg",HISTÓRIAS ASSUSTADORAS PARA CONTAR NO ESCURO
+https://github.com/prolip/f/releases/download/t/Historias.Assustadoras.Contar.no.Escuro
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/forca-1.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/f0/21/fe/MEBZULC_o.jpg",A FORCA
+https://github.com/prolip/f/releases/download/t/a.forca
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/f1/f5/bf/MEGZ688_o.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/IPIEUXq.jpeg",A MALDIÇÃO DA CHORONA
+https://content.jwplatform.com/videos/xVmi7wZX-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b5/df/ea/MEBZUMD_o.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/ElKv3F8.jpeg",CASAMENTO SANGRENTO
+https://github.com/prolip/f/releases/download/t/Casamento.Sangrento.2019
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/d9/7d/13/MEGZ68I_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/49/d2/78/MEGZ68H_o.jpg",CEMITÉRIO MALDITO (2019)
+https://content.jwplatform.com/videos/cJLzgmjI-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e8/b8/e8/MECGDFH_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/26/a3/1a/MECGDCX_o.jpg",CORRA!
+https://github.com/prolip/f/releases/download/t/corra
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/cf/51/15/MECGDFF_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/54/61/3d/MECGDCW_o.jpg",NÓS
+https://github.com/prolip/f/releases/download/t/nos.nos
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/16/08/1f/MEBZUT4_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/92/c2/49/MEBZUT1_o.jpg",HALLOWEEN (1978)
+https://github.com/prolip/f/releases/download/t/halloween.1
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/halloween.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/9f/ca/6f/MEBZUT2_o.jpg",HALLOWEEN (2019)
+https://github.com/prolip/f/releases/download/t/hh.2019
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/h2.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/pv1fR8x.jpeg",HALLOWEEN KILLS
+https://github.com/prolip/f/releases/download/t/h.kills
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/bd/de/15/MEFA4HW_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/2e/18/78/MEFA4GZ_o.jpg",HALLOWEEN ENDS
+https://github.com/prolip/f/releases/download/t/h.ends
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/it1.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/38/9a/67/MEBZUTO_o.jpg",IT - A COISA
+https://content.jwplatform.com/videos/f2sMXhSx-0HOcX8n1.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/it2.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/15/52/39/MEBZUTN_o.jpg",IT - CAPÍTULO DOIS
+https://content.jwplatform.com/videos/JfwAEzq0-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/1e/27/c6/MEBZUUO_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/d0/88/4a/MEBZUUM_o.jpg",INVOCAÇÃO DO MAL 1
+https://github.com/prolip/f/releases/download/t/invocacao.do.mal.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/85/0f/c2/MEBZUUP_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/fb/4a/f2/MEBZUUN_o.jpg",INVOCAÇÃO DO MAL 2
+https://github.com/prolip/f/releases/download/t/invocacao.do.mal.2
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/wlmK5u5.jpeg" group-title="TERROR/SUSPENSE" background="https://gcdnb.pbrd.co/images/WK3UPjTVPwAh.jpg",INVOCAÇÃO DO MAL 3: A ORDEM DO DEMÔNIO
+https://github.com/prolip/f/releases/download/t/invocacao.do.mal.3
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c2/dd/2f/MEBZUW6_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/ec/64/dd/MEBZUW4_o.jpg",ANNABELLE 1
+https://content.jwplatform.com/videos/xLazZkqn-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/84/ca/b1/MEBZUW7_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/46/87/25/MEBZUW3_o.jpg",ANNABELLE 2: A CRIAÇÃO DO MAL
+https://content.jwplatform.com/videos/zrqxC3N5-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/01/cb/23/MEBZUW8_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/59/3e/c3/MEBZUW5_o.jpg",ANNABELLE 3: DE VOLTA PARA CASA
+https://content.jwplatform.com/videos/xmHThGqQ-QUlYAaNZ.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/ba/33/ba/MEBZUWT_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/fc/a0/09/MEBZUWS_o.jpg",A FREIRA
+https://content.jwplatform.com/videos/GortM7AW-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/dd/a8/11/MEPGZDG_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/9f/c9/8e/MEPGZD8_o.jpg",A FREIRA 2
+https://github.com/likup/n/releases/download/n/FREIR42EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/20201218_140329.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/AO4Eerc.jpeg",A ENTIDADE
+https://github.com/prolip/f/releases/download/t/a.entidade
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c2/e2/12/MEC2ID2_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/c9/3c/3c/MEC2ID1_o.jpg",OUIJA - ORIGEM DO MAL
+https://github.com/prolip/f/releases/download/t/ouija.origem.do.mal
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/7c/45/a5/MEI2GPL_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/33/3b/d5/MEC2IFD_o.jpg",A HORA DO PESADELO 1
+https://github.com/prolip/f/releases/download/t/a-hora-do-pesadelo-1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/84/32/e8/MEC2IFH_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/84/32/e8/MEC2IFH_o.jpg",A HORA DO PESADELO (2010)
+https://github.com/prolip/f/releases/download/t/a-hora-do-pesadelo-2010-dub
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/97/3b/5a/MEC2IFJ_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/97/3b/5a/MEC2IFJ_o.jpg",SEXTA-FEIRA 13 (2009)
+https://content.jwplatform.com/videos/SAv7LxQK-F3o6hEvP.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e9/a9/0b/MEC2IFL_o.jpg" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/Fvj.jpg",FREDDIE VS JASON
+https://content.jwplatform.com/videos/SKA1QUlo-nJ2q6WN3.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/de/95/87/MEC2IFM_o.jpg" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/n/chucky1.jpg",BRINQUEDO ASSASSINO 1
+https://content.jwplatform.com/videos/BBkfkNxd-Ur8QqysD.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/8e/c2/4f/MEC2IFN_o.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/4lFXP4c.jpeg",BRINQUEDO ASSASSINO 2
+https://content.jwplatform.com/videos/cGE95xUz-Ur8QqysD.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c6/df/e3/MEC2IFO_o.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/0fVo4D1.jpeg",BRINQUEDO ASSASSINO 3
+https://content.jwplatform.com/videos/9cYZ1lNL-Ur8QqysD.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/ee/28/a1/MEC2IFR_o.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/FrMkuGY.jpeg",A NOIVA DE CHUCKY
+https://content.jwplatform.com/videos/IyTPI3WE-5tdF2dfr.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/43/da/24/MEC2IFS_o.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/TnlMT20.jpeg",O FILHO DE CHUCKY
+https://content.jwplatform.com/videos/8dnBkrfQ-E2vY9Ubx.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/20201221_182219.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/w32B5Bx.jpeg",A MALDIÇÃO DE CHUCKY
+https://content.jwplatform.com/videos/p8nsESKr-q6DicNGI.mp4
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/20201221_182331.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/TyvCLCp.jpeg",O CULTO DE CHUCKY
+https://content.jwplatform.com/videos/tjaXtqel-q6DicNGI.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3f/67/97/MEGZ67V_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/19/d1/b5/MEGZ67U_o.jpg",BRINQUEDO ASSASSINO (2019)
+https://content.jwplatform.com/videos/hD1VnwIh-0uvDYoAG.mp4
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/fTE46AF.jpeg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/fTE46AF.jpeg",O HOMEM NAS TREVAS 1
+https://github.com/prolip/f/releases/download/t/homem.nas.trevas.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/68/89/07/MEC2I8I_o.jpg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/3bGw18v.jpeg",O HOMEM NAS TREVAS 2
+https://github.com/prolip/f/releases/download/t/homem.nas.trevas.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/8f/0e/bb/MEC2I8L_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/c5/94/ba/MEC2IFX_o.jpg",OS SUSPEITOS
+https://github.com/prolip/f/releases/download/t/os.suspeitos
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/fd/de/1c/MEC2I8H_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/fd/de/1c/MEC2I8H_o.jpg",ENTERRADO VIVO
+https://github.com/prolip/f/releases/download/t/enterrado.vivo
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/84/99/8c/MEC2I8F_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/02/f7/da/MEC2IFZ_o.jpg",A MORTE TE DÁ PARABENS 1
+https://github.com/prolip/f/releases/download/t/a.morte.te.da.parabens.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/6c/a2/e8/MEC2I8G_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/c5/fe/8f/MEC2IFY_o.jpg",A MORTE TE DÁ PARABENS 2
+https://github.com/prolip/f/releases/download/t/a.morte.te.da.parabens.2
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b5/e3/29/MEI2GPE_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/0d/bf/da/MEI2GPD_o.jpg",MADRUGADA DOS MORTOS
+https://cdn.jwplayer.com/videos/XhEFtt47-dLjYr7Ct.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/90/e0/30/MEC2IG0_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/90/e0/30/MEC2IG0_o.jpg",INVASÃO ZUMBI 1
+https://github.com/prolip/f/releases/download/t/Invasao.Zumbi
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/50/63/4d/MEC2IG2_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/50/63/4d/MEC2IG2_o.jpg",ALIEN (1979)
+https://github.com/prolip/f/releases/download/t/alien.1
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/c2/55/1e/MEC2ITP_o.jpg" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/22/20201218_140427.jpg",O SEXTO SENTIDO
+https://content.jwplatform.com/videos/3SHaLEU5-Ay5r7f3Q.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a2/b3/aa/MEC2IG4_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/53/d8/e4/MEC2IG5_o.jpg",A VISITA
+https://github.com/prolip/f/releases/download/t/a.visita
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b0/43/8d/MEI2GIG_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/6b/19/f6/MEI2GI8_o.jpg",CORPO FECHADO
+https://bit.ly/3Wo92sj
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/ee/0d/96/MEC2IG6_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/bd/c0/8d/MEI2GIB_o.jpg",FRAGMENTADO
+https://github.com/prolip/f/releases/download/t/fragmentado
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/e5/9b/bc/MEI2GIE_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/02/0a/ea/MEI2GI6_o.jpg",VIDRO
+https://github.com/prolip/f/releases/download/t/vidro
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/fc/83/b0/MEI2G7Y_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/c1/e8/1e/MEI2G7U_o.jpg",O LABIRINTO DO FAUNO
+https://content.jwplatform.com/videos/FzyIVo2T-nIPYi4xr.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/fe/4c/30/MEC2IG8_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/fe/4c/30/MEC2IG8_o.jpg",AO CAIR DA NOITE
+https://github.com/prolip/f/releases/download/t/ao.cair.da.noite
+#EXTINF:0 type="video" tvg-logo="https://i.imgur.com/qdF6jxM.jpeg" group-title="TERROR/SUSPENSE" background="https://i.imgur.com/qdF6jxM.jpeg",UMA NOITE DE CRIME
+https://github.com/prolip/f/releases/download/t/uma.noite.de.crime
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/37/dc/33/MEC2IGB_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/c2/79/d8/MEC2IGC_o.jpg",O MASSACRE DA SERRA ELÉTRICA (1974)
+https://github.com/prolip/f/releases/download/t/massacre-da-serra-eletrica-1974
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/20210206_153155.jpg" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/22/20210206_153116.jpg",O SEGREDO DA CABANA
+https://github.com/prolip/f/releases/download/t/o.segredo.da.cabana
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/ca/0f/2f/MEBQEHL_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/d5/14/26/MEBQEHG_o.jpg",A POSSESSÃO DE DEBORAH LOGAN
+https://github.com/ted200/f/releases/download/p/a.possessao.de.deborah.logan
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/a6/71/9c/MELCX38_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/90/d4/fb/MELCX2W_o.jpg",ADVOGADO DO DIABO
+https://content.jwplatform.com/videos/lqw8vqNn-Rxan8DJ4.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/87/e8/34/MELCX3D_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/16/fe/f1/MELCX2V_o.jpg",BIRD BOX
+https://content.jwplatform.com/videos/4H832O1X-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/07/f6/f3/MEBON8R_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/91/47/7c/MEBON8H_o.jpg",ARRASTE-ME PARA O INFERNO
+https://github.com/ted200/f/releases/download/p/arraste.me.para.o.inferno
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/56/b7/c7/MEC2IGD_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/56/b7/c7/MEC2IGD_o.jpg",HUSH: A MORTE OUVE
+https://github.com/prolip/f/releases/download/t/hush.a.morte.ouve
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/n/malw.jpg" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/n/malw.jpg",À ESPREITA DO MAL
+https://github.com/prolip/f/releases/download/t/a.espreita.do.mal
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/65/f6/03/MEC2IGG_o.jpg" group-title="TERROR/SUSPENSE" background="https://github.com/ted200/img/releases/download/2/inferno.jpg",ASSIM NA TERRA COMO NO INFERNO
+https://github.com/prolip/f/releases/download/t/assim-na-terra-como-no-inferno
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b3/7c/7a/MEC2IGH_o.jpg" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/cera.jpg",A CASA DE CERA
+https://content.jwplatform.com/videos/uOm1OzKx-x08hJpYs.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/26/fe/31/MEC2IGK_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/26/fe/31/MEC2IGK_o.jpg",MAMA
+https://github.com/prolip/f/releases/download/t/mama
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/95/00/3a/MEC2IGL_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/2b/78/55/MEC2IGM_o.jpg",REC
+https://github.com/prolip/f/releases/download/t/rec
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/32/1f/50/MEC2IGN_o.jpg" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/22/iluminado.jpg",O ILUMINADO
+https://github.com/prolip/f/releases/download/t/o.iluminado
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/df/3f/a1/MEGOW1H_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/b2/2a/42/MEGOW1E_o.jpg",O ENIGMA DE OUTRO MUNDO
+https://github.com/prolip/f/releases/download/t/o.enigma.de.outro.mundo
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/3f/29/3d/MEC2IGO_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/2a/59/e8/MEC2IGQ_o.jpg",O EXORCISTA
+https://github.com/prolip/f/releases/download/t/o.exorcista
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b8/e2/f0/MEGOW1U_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/b8/e2/f0/MEGOW1U_o.jpg",A BRUXA DE BLAIR
+https://github.com/prolip/f/releases/download/t/a.bruxa.de.blair
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/b8/e2/f0/MEGOW1U_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/b8/e2/f0/MEGOW1U_o.jpg",A BRUXA DE BLAIR (LEG)
+https://github.com/likup/n/releases/download/o/bdb.leg
+#EXTINF:0 type="video" tvg-logo="htt" group-title="TERROR/SUSPENSE" background="https",PARASITA
+https://github.com/prolip/f/releases/download/d/Parasita.LEG
+#EXTINF:0 type="video" tvg-logo="https://r350home.files.wordpress.com/2020/04/20200415_001147.jpg" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/22/buscando.jpg",BUSCANDO
+https://github.com/prolip/f/releases/download/t/buscando
+#EXTINF:0 type="video" tvg-logo="https://ctuillbe.sirv.com/22/20201221_181700.jpg" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/22/20201221_181700.jpg",SLENDER MAN
+https://content.jwplatform.com/videos/TnKc0wPB-NfA09Gih.mp4
+#EXTINF:0 type="video" tvg-logo="https://tofdata.files.wordpress.com/2021/01/20210113_151134.jpg" group-title="TERROR/SUSPENSE" background="https://tofdata.files.wordpress.com/2021/01/20210113_151134.jpg",VERDADE OU DESAFIO
+https://github.com/prolip/f/releases/download/t/verdade.ou.desafio
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/66/5d/5e/MEC2IGV_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/66/5d/5e/MEC2IGV_o.jpg",A AUTOPSIA
+https://content.jwplatform.com/videos/uafjVyjD-UQsvBE6L.mp4
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/6c/09/79/MEC2IGW_o.jpg" group-title="TERROR/SUSPENSE" background="https://ctuillbe.sirv.com/22/20201218_141804.jpg",CLOVERFIELD: MONSTRO
+https://github.com/prolip/f/releases/download/t/cloverfield
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/87/03/15/MEBON8M_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/8b/de/1c/MEBON8C_o.jpg",RUA CLOVERFIELD 10
+https://github.com/ted200/f/releases/download/p/rua.cloverfield.10
+#EXTINF:0 type="video" tvg-logo="https://images4.imagebam.com/71/b6/19/MEBZV0X_o.jpg" group-title="TERROR/SUSPENSE" background="https://images4.imagebam.com/c1/23/12/MEBZV0V_o.jpg",HEREDITARIO
+https://github.com/prolip/f/releases/download/t/hereditario
